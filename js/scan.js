@@ -6,16 +6,19 @@ document.querySelectorAll('.phrase-list').forEach(section => {
             function renderList() {  // ラジオボタンの選択によって表示を更新
                 const selectedCategory = document.querySelector('input[name="category"]:checked').value;
                 section.innerHTML = ''; // 一旦クリア
+
+                // ulを作る
+                const ul = document.createElement('ul');
+                section.appendChild(ul);
+
                 data.forEach(phrase => {
                     if (phrase.category === selectedCategory) {
-                        const phraseSection = document.createElement('section');
-                        const phraseDiv = document.createElement('div');
-                        phraseDiv.classList.add('phrase');
-                        phraseDiv.innerHTML = `<p>${phrase.en}</p>`;
-                        phraseSection.appendChild(phraseDiv);
-                        section.appendChild(phraseSection);
+                        const li = document.createElement('li');
+                        li.classList.add('phrase');
+                        li.innerHTML = `<p>${phrase.en}</p>`;
+                        ul.appendChild(li);
 
-                        phraseDiv.onclick = function () {  // ポップアップ表示
+                        li.onclick = function () {  // ポップアップ表示
                             document.getElementById("en").textContent = phrase.en;
                             document.getElementById("ja").textContent = phrase.ja;
                             document.getElementById("popup").style.display = "flex";
@@ -46,8 +49,7 @@ document.querySelectorAll('.phrase-list').forEach(section => {
 
 // 背景クリックで閉じる
 document.getElementById("popup").addEventListener("click", function (event) {
-// popup-contentの外側がクリックされた場合のみ閉じる
-if (event.target === this) {
-    this.style.display = "none";
-}
+    if (event.target === this) { // popup-contentの外側がクリックされた場合のみ閉じる
+        this.style.display = "none";
+    }
 });

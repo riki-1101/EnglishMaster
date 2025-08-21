@@ -66,38 +66,6 @@ p.center {
 }
 
 
-#table-of-contents {
-    width: 90%;
-    max-width: 700px;
-    margin: 0 auto 40px auto;
-    padding: 20px 25px;
-    background-color: whitesmoke;
-    border: 1px solid #d0d7de;
-    border-radius: 8px;
-    color: #333;
-}
-#table-of-contents figcaption {
-    margin-top: 0;
-    font-size: 1.3em;
-    color: #2a3d66;
-    border-left: 4px solid darkblue;
-    padding-left: 10px;
-    margin-bottom: 15px;
-}
-#table-of-contents ul {
-    list-style: none;
-    padding-left: 0;
-    margin: 0;
-}
-#table-of-contents li {
-    padding: 6px 0;
-    border-bottom: 1px dashed #ccc;
-}
-#table-of-contents li:last-child {
-    border-bottom: none;
-}
-
-
 /* ヘッダー */
 header {
     display: flex;
@@ -193,7 +161,9 @@ footer {
     text-align: center;
 }
 
-
+#radio {
+    margin: 20px 0;
+}
 
 /* 元のラジオボタンを隠す */
 input[type="radio"] {
@@ -229,17 +199,29 @@ input[type="radio"]:checked + label {
 
 
 
-.phrase {
+.phrase-list ul {
+    list-style: none; /* デフォルトの点を消す */
+    padding: 0;
     margin: 0;
+}
+.phrase-list .phrase {
+    margin: 0.5em 0;
     padding: 1em;
     border: 1px solid #aaa;
     border-radius: 5px;
+    cursor: pointer;
+    background: #f9f9f9;
+    transition: background 0.2s;
 }
-.phrase p {
+.phrase-list .phrase:hover {
+    background: #eef;
+}
+.phrase-list .phrase p {
     margin: 0;
-    font-size: 2em;
+    font-size: 1.5em;
     font-weight: bold;
 }
+
 
 #en {
     margin: 0;
@@ -263,7 +245,6 @@ input[type="radio"]:checked + label {
     margin: 0.5em;
     text-indent: 1em;
 }
-
 
 #popup {
     display: none; /* 初期状態で非表示 */
