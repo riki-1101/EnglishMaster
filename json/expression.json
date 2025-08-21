@@ -1,5 +1,6 @@
 [
     {
+        "category": "I",
         "en": "I'm (C) / I was (C)",
         "ja": "今～状態である / ～状態だった",
         "examples": [
@@ -10,6 +11,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I'm being (C)",
         "ja": "今～な態度をとっている（一時的にしている）",
         "examples": [
@@ -20,6 +22,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I (do) / I (did)",
         "ja": "普段～する / ～した",
         "examples": [
@@ -30,6 +33,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I do (do) / I did (do)",
         "ja": "普段～するんだよ（強調） / ～したんだよ",
         "examples": [
@@ -40,6 +44,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I can (do)",
         "ja": "～できる可能性がある",
         "examples": [
@@ -50,6 +55,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I could've (done)",
         "ja": "～できたかも（できていない）",
         "examples": [
@@ -60,6 +66,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I couldn't have (done)",
         "ja": "～できなかったかも（できた）",
         "examples": [
@@ -70,6 +77,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I might've (done)",
         "ja": "～したかもしれない",
         "examples": [
@@ -80,6 +88,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I should (do)",
         "ja": "～した方がいい",
         "examples": [
@@ -90,6 +99,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I should've (done)",
         "ja": "～すべきだった",
         "examples": [
@@ -100,6 +110,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I shouldn't have (done)",
         "ja": "～しなきゃよかった",
         "examples": [
@@ -110,6 +121,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I will (do)",
         "ja": "～する意志がある",
         "examples": [
@@ -120,6 +132,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I'll just go (do)",
         "ja": "ちょっと～しにいく",
         "examples": [
@@ -130,6 +143,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I would've (done)",
         "ja": "～する意志があったのに（していない）",
         "examples": [
@@ -140,6 +154,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I would often (do)",
         "ja": "～したものだ",
         "examples": [
@@ -150,6 +165,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I used to (do)",
         "ja": "昔～したものだ（今はしていない）",
         "examples": [
@@ -160,6 +176,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I have to (do)",
         "ja": "～しなければならない（客観的に見て）",
         "examples": [
@@ -170,6 +187,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I don't have to (do)",
         "ja": "～しなくてよい（客観的に見て）",
         "examples": [
@@ -180,6 +198,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I've got to (do) / I gotta (do)",
         "ja": "～しなきゃ",
         "examples": [
@@ -190,6 +209,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I need to (do)",
         "ja": "～する必要がある",
         "examples": [
@@ -200,6 +220,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I want to (do) / I wanna (do)",
         "ja": "～したい",
         "examples": [
@@ -210,6 +231,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I'd like to (do)",
         "ja": "～したいのですが（丁寧）",
         "examples": [
@@ -220,6 +242,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I can't wait to (do)",
         "ja": "～するのが待ちきれない",
         "examples": [
@@ -230,6 +253,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I hope to (do)",
         "ja": "～できたらいいな",
         "examples": [
@@ -240,6 +264,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I wish to (do)",
         "ja": "～したいです（とても丁寧）",
         "examples": [
@@ -250,6 +275,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I'd rather (do)",
         "ja": "むしろ～したい",
         "examples": [
@@ -260,6 +286,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I expect to (do)",
         "ja": "～するつもりである",
         "examples": [
@@ -270,6 +297,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I'm going to (do) / I'm gonna (do)",
         "ja": "～する予定である",
         "examples": [
@@ -280,6 +308,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I'm planning to (do)",
         "ja": "～するのを予定している",
         "examples": [
@@ -290,6 +319,7 @@
         ]
     },
     {
+        "category": "I",
         "en": "I'm supposed to (do)",
         "ja": "～することになっている",
         "examples": [
@@ -300,12 +330,232 @@
         ]
     },
     {
+        "category": "I",
         "en": "I'm about to (do)",
         "ja": "今まさに～しようとしている",
         "examples": [
             {
                 "en": "I'm about to eat lunch.",
                 "ja": "今まさに昼食を食べるところだ。"
+            }
+        ]
+    },
+
+
+
+
+
+    
+
+
+
+
+    {
+        "category": "You",
+        "en": "You're (C) / You were (C)",
+        "ja": "今～状態だね / ～状態だったよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You're being (C)",
+        "ja": "今～っぽいよ（いつもと違う）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You seem (C)",
+        "ja": "～のように思えるよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You look (C)",
+        "ja": "～のように見えるよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You sound (C)",
+        "ja": "～のように聞こえるよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You feel (C)",
+        "ja": "～に感じているようだね",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You can (do)",
+        "ja": "～していいよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You could've (done)",
+        "ja": "～しとけよ！（していなかった）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You should (do)",
+        "ja": "～した方がいいよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You had better (do)",
+        "ja": "～しなさいよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You had better not (do)",
+        "ja": "～するな",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You must (do)",
+        "ja": "～しないといけないよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You mustn't (do)",
+        "ja": "～してはいけないよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You have to (do)",
+        "ja": "～しなければならないよ（客観的に見て）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You'll have to (do)",
+        "ja": "～しなければならないだろうね（客観的に見て）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You don't have to (do)",
+        "ja": "～しなくていいよ（客観的に見て）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You only have to (do)",
+        "ja": "～しさえすればいいよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "All you  have to do is (do)",
+        "ja": "～しさえすればいいよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You need to (do)",
+        "ja": "～する必要があるよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
             }
         ]
     }

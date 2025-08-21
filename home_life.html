@@ -10,19 +10,31 @@
     <header id="header"></header>
     <main>
         <h1>家庭生活</h1>
-        <label><input type="radio" name="category" value="sleep" checked>睡眠</label>
-        <label><input type="radio" name="category" value="laundry">洗濯</label>
-        <label><input type="radio" name="category" value="cleaning">掃除</label>
-        <label><input type="radio" name="category" value="eating">食事</label>
-        <label><input type="radio" name="category" value="getting_ready">身支度</label>
+        <input type="radio" name="category" id="睡眠" value="睡眠" checked>
+        <label for="睡眠">睡眠</label>
+        <input type="radio" name="category" id="洗濯" value="洗濯">
+        <label for="洗濯">洗濯</label>
+        <input type="radio" name="category" id="掃除" value="掃除">
+        <label for="掃除">掃除</label>
+        <input type="radio" name="category" id="食事" value="食事">
+        <label for="食事">食事</label>
+        <input type="radio" name="category" id="身支度" value="身支度">
+        <label for="身支度">身支度</label>
         <section>
-            <section class="verb-list" id="home_life.json"></section>
+            <section class="phrase-list" id="home_life.json"></section>
         </section>
+        <div id="popup">
+            <div class="modal-content">
+                <p id="en"></p>
+                <p id="ja"></p>
+                <ul id="example"></ul>
+            </div>
+        </div>
     </main>
     <footer id="footer"></footer>
     <script src="js/header.js"></script>
     <script src="js/footer.js"></script>
     <script src="js/script.js"></script>
-    <script src="js/verb_scan.js"></script>
+    <script src="js/scan.js"></script>
 </body>
 </html>
