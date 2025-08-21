@@ -20,6 +20,11 @@ a {
     text-decoration: none;
 }
 
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
 section {
     margin-bottom: 50px;
 }
@@ -30,8 +35,6 @@ section {
     font-size: 25px;
 }
 #home ul {
-    list-style: none;
-    padding-left: 0;
     margin: 0 15px;
 }
 #home ul li {
@@ -48,7 +51,7 @@ section {
 }
 
 h1 {
-    margin: 3em 0;
+    margin: 1em 0;
 }
 
 
@@ -57,12 +60,6 @@ p.indent {
 }
 p.center {
     text-align: center;
-}
-
-
-/*全体に対する擬似要素*/
-:root {
-    scroll-padding-top: 80px;
 }
 
 
@@ -200,39 +197,37 @@ input[type="radio"]:checked + label {
 
 
 #phrase-list {
-    list-style: none;
-    padding: 0;
     margin: 0;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-user-select: none; /* 長押しで選択されないように */
+    user-select: none;
 }
 #phrase-list .phrase {
-    margin: 0.5em 0;
-    padding: 1.5em 1em;
+    margin: 1em 0;
+    padding: 1em;
     border: 1px solid #aaa;
     border-radius: 5px;
     cursor: pointer;
-    background: #f9f9f9;
+    background: whitesmoke;
+    font-size: 1.7em;
+    font-weight: bold;
 }
 #phrase-list .phrase:hover {
-    background: #eef;
-}
-#phrase-list .phrase p {
-    margin: 0;
-    font-size: 1.5em;
-    font-weight: bold;
+    background: wheat;
 }
 
 
 #en {
-    font-size: 2em;
+    font-size: 1.7em;
     font-weight: bold;
 }
 #ja {
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 .ex_en{
     margin: 0;
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 .ex_ja{
     margin: 0.5em;
@@ -256,7 +251,7 @@ input[type="radio"]:checked + label {
   background-color: white;
   padding: 10px;
   border-radius: 10px;
-  width: 85%;
+  width: 90%;
   text-align: center;
   box-shadow: 0 4px 8px rgba(0,0,0,0.3);
 }
