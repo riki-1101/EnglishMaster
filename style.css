@@ -199,24 +199,23 @@ input[type="radio"]:checked + label {
 
 
 
-.phrase-list ul {
-    list-style: none; /* デフォルトの点を消す */
+#phrase-list {
+    list-style: none;
     padding: 0;
     margin: 0;
 }
-.phrase-list .phrase {
+#phrase-list .phrase {
     margin: 0.5em 0;
-    padding: 1em;
+    padding: 1.5em 1em;
     border: 1px solid #aaa;
     border-radius: 5px;
     cursor: pointer;
     background: #f9f9f9;
-    transition: background 0.2s;
 }
-.phrase-list .phrase:hover {
+#phrase-list .phrase:hover {
     background: #eef;
 }
-.phrase-list .phrase p {
+#phrase-list .phrase p {
     margin: 0;
     font-size: 1.5em;
     font-weight: bold;
@@ -224,19 +223,13 @@ input[type="radio"]:checked + label {
 
 
 #en {
-    margin: 0;
     font-size: 2em;
     font-weight: bold;
 }
 #ja {
-    margin: 0;
-    font-size: 1em;
+    font-size: 1.5em;
 }
 
-#example {
-    margin: 1em;
-    padding-left: 1em;
-}
 .ex_en{
     margin: 0;
     font-size: 1.5em;
