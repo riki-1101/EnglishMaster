@@ -1,0 +1,192 @@
+[
+    {
+        "en": "You're (C) / You were (C)",
+        "ja": "今～状態だね / ～状態だったよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You're being (C)",
+        "ja": "今～っぽいよ（いつもと違う）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You seem (C)",
+        "ja": "～のように思えるよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You look (C)",
+        "ja": "～のように見えるよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You sound (C)",
+        "ja": "～のように聞こえるよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You feel (C)",
+        "ja": "～に感じているようだね",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You can (do)",
+        "ja": "～していいよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You could've (done)",
+        "ja": "～しとけよ！（していなかった）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You should (do)",
+        "ja": "～した方がいいよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You had better (do)",
+        "ja": "～しなさいよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You had better not (do)",
+        "ja": "～するな",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You must (do)",
+        "ja": "～しないといけないよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You mustn't (do)",
+        "ja": "～してはいけないよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You have to (do)",
+        "ja": "～しなければならないよ（客観的に見て）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You'll have to (do)",
+        "ja": "～しなければならないだろうね（客観的に見て）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You don't have to (do)",
+        "ja": "～しなくていいよ（客観的に見て）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You only have to (do)",
+        "ja": "～しさえすればいいよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "All you  have to do is (do)",
+        "ja": "～しさえすればいいよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "You need to (do)",
+        "ja": "～する必要があるよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    }
+]

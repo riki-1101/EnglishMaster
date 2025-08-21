@@ -1,0 +1,122 @@
+[
+    {
+        "en": "I think / I thought",
+        "ja": "～と主観的に思う / ～と思った",
+        "examples": [
+            {
+                "en": "I think it's a good idea.",
+                "ja": "それはいい考えだと思う。"
+            }
+        ]
+    },
+    {
+        "en": "It seems / It seems like",
+        "ja": "～と客観的に思う",
+        "examples": [
+            {
+                "en": "It seems he is busy.",
+                "ja": "彼は忙しいように思う。"
+            }
+        ]
+    },
+    {
+        "en": "I believe / I believed",
+        "ja": "～と信じる / ～と信じた",
+        "examples": [
+            {
+                "en": "I believe we can win.",
+                "ja": "私たちは勝てると信じる。"
+            }
+        ]
+    },
+    {
+        "en": "I assume / I assumed",
+        "ja": "～と勝手に思い込む / ～と勝手に思い込んだ",
+        "examples": [
+            {
+                "en": "I assumed you knew.",
+                "ja": "あなたは知っていると勝手に思い込んだ。"
+            }
+        ]
+    },
+    {
+        "en": "I suppose / I supposed",
+        "ja": "～と推測する / ～と推測した",
+        "examples": [
+            {
+                "en": "I suppose he's right.",
+                "ja": "彼は正しいと推測する。"
+            }
+        ]
+    },
+    {
+        "en": "I guess",
+        "ja": "多分～と思う",
+        "examples": [
+            {
+                "en": "I guess you're busy.",
+                "ja": "多分あなたは忙しいだろうと思う。"
+            }
+        ]
+    },
+    {
+        "en": "I hope",
+        "ja": "～だといいな",
+        "examples": [
+            {
+                "en": "I hope you have a great day.",
+                "ja": "素敵な一日になるといいね。"
+            }
+        ]
+    },
+    {
+        "en": "I expect",
+        "ja": "～と予想する",
+        "examples": [
+            {
+                "en": "I expect it'll rain.",
+                "ja": "雨が降ると予想する。"
+            }
+        ]
+    },
+    {
+        "en": "I suspect",
+        "ja": "～と疑う",
+        "examples": [
+            {
+                "en": "I suspect he's lying.",
+                "ja": "彼が嘘をついていると疑う。"
+            }
+        ]
+    },
+    {
+        "en": "I doubt",
+        "ja": "～とは思えない",
+        "examples": [
+            {
+                "en": "I doubt this plan wll work.",
+                "ja": "この計画がうまくいくとは思えない。"
+            }
+        ]
+    },
+    {
+        "en": "I promise",
+        "ja": "～と約束する",
+        "examples": [
+            {
+                "en": "I promise I won't be late.",
+                "ja": "遅れないと約束する。"
+            }
+        ]
+    },
+    {
+        "en": "I swear",
+        "ja": "～と誓う",
+        "examples": [
+            {
+                "en": "I swear I'll tell the truth.",
+                "ja": "真実を話すと誓う。"
+            }
+        ]
+    }
+]

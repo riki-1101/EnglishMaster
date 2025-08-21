@@ -1,0 +1,312 @@
+[
+    {
+        "en": "I'm (C) / I was (C)",
+        "ja": "今～状態である / ～状態だった",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I'm being (C)",
+        "ja": "今～な態度をとっている（一時的にしている）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I (do) / I (did)",
+        "ja": "普段～する / ～した",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I do (do) / I did (do)",
+        "ja": "普段～するんだよ（強調） / ～したんだよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I can (do)",
+        "ja": "～できる可能性がある",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I could've (done)",
+        "ja": "～できたかも（できていない）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I couldn't have (done)",
+        "ja": "～できなかったかも（できた）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I might've (done)",
+        "ja": "～したかもしれない",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I should (do)",
+        "ja": "～した方がいい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I should've (done)",
+        "ja": "～すべきだった",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I shouldn't have (done)",
+        "ja": "～しなきゃよかった",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I will (do)",
+        "ja": "～する意志がある",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I'll just go (do)",
+        "ja": "ちょっと～しにいく",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I would've (done)",
+        "ja": "～する意志があったのに（していない）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I would often (do)",
+        "ja": "～したものだ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I used to (do)",
+        "ja": "昔～したものだ（今はしていない）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I have to (do)",
+        "ja": "～しなければならない（客観的に見て）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I don't have to (do)",
+        "ja": "～しなくてよい（客観的に見て）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I've got to (do) / I gotta (do)",
+        "ja": "～しなきゃ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I need to (do)",
+        "ja": "～する必要がある",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I want to (do) / I wanna (do)",
+        "ja": "～したい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I'd like to (do)",
+        "ja": "～したいのですが（丁寧）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I can't wait to (do)",
+        "ja": "～するのが待ちきれない",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I hope to (do)",
+        "ja": "～できたらいいな",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I wish to (do)",
+        "ja": "～したいです（とても丁寧）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I'd rather (do)",
+        "ja": "むしろ～したい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I expect to (do)",
+        "ja": "～するつもりである",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I'm going to (do) / I'm gonna (do)",
+        "ja": "～する予定である",
+        "examples": [
+            {
+                "en": "I'm going to study English tonight.",
+                "ja": "今夜英語を勉強する予定だ。"
+            }
+        ]
+    },
+    {
+        "en": "I'm planning to (do)",
+        "ja": "～するのを予定している",
+        "examples": [
+            {
+                "en": "I'm planning to go abroad.",
+                "ja": "海外に行くのを予定している。"
+            }
+        ]
+    },
+    {
+        "en": "I'm supposed to (do)",
+        "ja": "～することになっている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "en": "I'm about to (do)",
+        "ja": "今まさに～しようとしている",
+        "examples": [
+            {
+                "en": "I'm about to eat lunch.",
+                "ja": "今まさに昼食を食べるところだ。"
+            }
+        ]
+    }
+]

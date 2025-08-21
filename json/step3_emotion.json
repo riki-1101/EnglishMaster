@@ -1,0 +1,92 @@
+[
+    {
+        "en": "I feel",
+        "ja": "～と感じる",
+        "examples": [
+            {
+                "en": "I feel something is wrong.",
+                "ja": "何かが間違っていると感じる。"
+            }
+        ]
+    },
+    {
+        "en": "It feels like",
+        "ja": "～ような感じがする",
+        "examples": [
+            {
+                "en": "It feels like it's going to rain.",
+                "ja": "雨が降るような気がする。"
+            }
+        ]
+    },
+    {
+        "en": "It looks like",
+        "ja": "～ように見える・～っぽい",
+        "examples": [
+            {
+                "en": "It looks like you're tired.",
+                "ja": "あなたは疲れてるように見える。"
+            }
+        ]
+    },
+    {
+        "en": "It sounds like",
+        "ja": "～ように聞こえる",
+        "examples": [
+            {
+                "en": "It sounds like he's angry.",
+                "ja": "彼は怒っているみたいだ。"
+            }
+        ]
+    },
+    {
+        "en": "It smells like",
+        "ja": "～ような匂いがする",
+        "examples": [
+            {
+                "en": "It smells like something is burning.",
+                "ja": "何かが焦げているような匂いがする。"
+            }
+        ]
+    },
+    {
+        "en": "I appreciate",
+        "ja": "～に感謝する",
+        "examples": [
+            {
+                "en": "I appreciate you came.",
+                "ja": "来てくれて感謝する。"
+            }
+        ]
+    },
+    {
+        "en": "I regret",
+        "ja": "～を残念に思う",
+        "examples": [
+            {
+                "en": "I regret the event has been canceled.",
+                "ja": "イベントが中止になっているのを残念に思う。"
+            }
+        ]
+    },
+    {
+        "en": "I wonder if [whether]",
+        "ja": "～かなと思う",
+        "examples": [
+            {
+                "en": "I wonder if it's going to rain tomorrow.",
+                "ja": "明日雨が降るのかなあ。"
+            }
+        ]
+    },
+    {
+        "en": "I wish (仮定法)",
+        "ja": "～であればいいのにと思う",
+        "examples": [
+            {
+                "en": "I wish I had more time.",
+                "ja": "もっと時間があればいいのにと思う。"
+            }
+        ]
+    }
+]

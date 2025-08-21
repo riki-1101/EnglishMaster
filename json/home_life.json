@@ -1,0 +1,302 @@
+[
+    {
+        "category": "sleep",
+        "en": "wake up",
+        "ja": "目を覚ます"
+    },
+    {
+        "category": "sleep",
+        "en": "get up",
+        "ja": "起きる"
+    },
+    {
+        "category": "sleep",
+        "en": "go to bed",
+        "ja": "寝る"
+    },
+    {
+        "category": "sleep",
+        "en": "take a nap",
+        "ja": "昼寝をする"
+    },
+    {
+        "category": "sleep",
+        "en": "stay up late",
+        "ja": "夜更かしする"
+    },
+    {
+        "category": "sleep",
+        "en": "oversleep",
+        "ja": "寝過ごす"
+    },
+    {
+        "category": "sleep",
+        "en": "sleep in",
+        "ja": "朝寝坊する、遅くまで寝る"
+    },
+    {
+        "category": "sleep",
+        "en": "put on my pajamas",
+        "ja": "パジャマを着る"
+    },
+    {
+        "category": "sleep",
+        "en": "take off my pajamas",
+        "ja": "パジャマを脱ぐ"
+    },
+    {
+        "category": "sleep",
+        "en": "hit the snooze button",
+        "ja": "スヌーズを押す"
+    },
+    {
+        "category": "sleep",
+        "en": "turn on/off the light",
+        "ja": "電気をつける / 消す"
+    },
+    {
+        "category": "sleep",
+        "en": "open/close the window",
+        "ja": "窓を開ける / 閉める"
+    },
+    {
+        "category": "sleep",
+        "en": "draw/close the curtains",
+        "ja": "カーテンを開ける / 閉める"
+    },
+
+
+
+
+
+    {
+        "category": "laundry",
+        "en": "do the laundry",
+        "ja": "洗濯する"
+    },
+    {
+        "category": "laundry",
+        "en": "load the washing machine",
+        "ja": "洗濯機に入れる"
+    },
+    {
+        "category": "laundry",
+        "en": "unload the washing machine",
+        "ja": "洗濯機から出す"
+    },
+    {
+        "category": "laundry",
+        "en": "hang the laundry",
+        "ja": "洗濯物を干す"
+    },
+    {
+        "category": "laundry",
+        "en": "fold the laundry",
+        "ja": "洗濯物をたたむ"
+    },
+    {
+        "category": "laundry",
+        "en": "separate the laundry",
+        "ja": "洗濯物を分ける"
+    },
+    {
+        "category": "laundry",
+        "en": "put away the laundry",
+        "ja": "洗濯物をしまう"
+    },
+    {
+        "category": "laundry",
+        "en": "do the ironing",
+        "ja": "アイロンをかける"
+    },
+
+
+
+
+
+    {
+        "category": "cleaning",
+        "en": "clean up the room",
+        "ja": "部屋を片付ける"
+    },
+    {
+        "category": "cleaning",
+        "en": "organize the closet/shelf",
+        "ja": "クローゼット / 棚を整理する"
+    },
+    {
+        "category": "cleaning",
+        "en": "dust the furniture",
+        "ja": "家具のほこりを払う"
+    },
+    {
+        "category": "cleaning",
+        "en": "wipe the table",
+        "ja": "テーブルを拭く"
+    },
+    {
+        "category": "cleaning",
+        "en": "polish the mirror",
+        "ja": "鏡を磨く"
+    },
+    {
+        "category": "cleaning",
+        "en": "sweep the floor",
+        "ja": "床を掃く"
+    },
+    {
+        "category": "cleaning",
+        "en": "mop the floor",
+        "ja": "床を拭く"
+    },
+    {
+        "category": "cleaning",
+        "en": "vacuum the carpet",
+        "ja": "掃除機をかける"
+    },
+    {
+        "category": "cleaning",
+        "en": "change the sheets",
+        "ja": "シーツを替える"
+    },
+    {
+        "category": "cleaning",
+        "en": "make the bed",
+        "ja": "ベッドを整える"
+    },
+    {
+        "category": "cleaning",
+        "en": "take out the trash",
+        "ja": "ゴミを出す"
+    },
+
+
+
+
+
+    {
+        "category": "eating",
+        "en": "make breakfast/linch/dinner",
+        "ja": "朝食 / 昼食 / 夕食を作る"
+    },
+    {
+        "category": "eating",
+        "en": "order takeout / order in",
+        "ja": "出前を頼む"
+    },
+    {
+        "category": "eating",
+        "en": "heat up leftovers",
+        "ja": "残り物を温める"
+    },
+    {
+        "category": "eating",
+        "en": "set the table",
+        "ja": "食卓の準備をする"
+    },
+    {
+        "category": "eating",
+        "en": "have breakfast/linch/dinner",
+        "ja": "朝食 / 昼食 / 夕食を食べる"
+    },
+    {
+        "category": "eating",
+        "en": "make coffee/tea",
+        "ja": "コーヒー / 紅茶を淹れる"
+    },
+    {
+        "category": "eating",
+        "en": "grab a drink",
+        "ja": "軽く飲む"
+    },
+    {
+        "category": "eating",
+        "en": "grab a bite",
+        "ja": "軽く食べる"
+    },
+    {
+        "category": "eating",
+        "en": "have a snack",
+        "ja": "おやつを食べる"
+    },
+    {
+        "category": "eating",
+        "en": "clear the table",
+        "ja": "食卓を片付ける"
+    },
+    {
+        "category": "eating",
+        "en": "do the dishes",
+        "ja": "皿を洗う"
+    },
+    {
+        "category": "eating",
+        "en": "make a shopping list",
+        "ja": "買い物リストを作る"
+    },
+
+
+
+
+
+    {
+        "category": "getting_ready",
+        "en": "brush my teeth",
+        "ja": "歯を磨く"
+    },
+    {
+        "category": "getting_ready",
+        "en": "rinse my mouth",
+        "ja": "口をすすぐ"
+    },
+    {
+        "category": "getting_ready",
+        "en": "wash my hands",
+        "ja": "手を洗う"
+    },
+    {
+        "category": "getting_ready",
+        "en": "wash my face",
+        "ja": "顔を洗う"
+    },
+    {
+        "category": "getting_ready",
+        "en": "take a shower",
+        "ja": "シャワーを浴びる"
+    },
+    {
+        "category": "getting_ready",
+        "en": "take a bath",
+        "ja": "お風呂に入る"
+    },
+    {
+        "category": "getting_ready",
+        "en": "dry my hair",
+        "ja": "髪を乾かす"
+    },
+    {
+        "category": "getting_ready",
+        "en": "comb my hair",
+        "ja": "髪をとかす"
+    },
+    {
+        "category": "getting_ready",
+        "en": "shave my face/legs",
+        "ja": "顔 / 脚を剃る"
+    },
+    {
+        "category": "getting_ready",
+        "en": "put on makeup",
+        "ja": "化粧をする"
+    },
+    {
+        "category": "getting_ready",
+        "en": "get dressed",
+        "ja": "服を着る"
+    },
+    {
+        "category": "getting_ready",
+        "en": "put on my jacket",
+        "ja": "上着を着る"
+    }
+]

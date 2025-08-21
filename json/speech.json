@@ -1,0 +1,82 @@
+[
+    {
+        "en": "S say (that)",
+        "ja": "～と言う（中立的で誰に言ったかまでは強調しない）",
+        "examples": [
+            {
+                "en": "He said she was tired.",
+                "ja": "彼女は疲れていると言った。"
+            }
+        ]
+    },
+    {
+        "en": "S tell sb (that)",
+        "ja": "(人)に～と伝える",
+        "examples": [
+            {
+                "en": "He told me the meeting was canceled.",
+                "ja": "彼は私に会議は中止だと伝えた。"
+            }
+        ]
+    },
+    {
+        "en": "S mention (that)",
+        "ja": "～に軽く言及する、触れる",
+        "examples": [
+            {
+                "en": "They mentioned the restaurant had just opened.",
+                "ja": "彼らはそのレストランが開店したばかりだと軽く触れた。"
+            }
+        ]
+    },
+    {
+        "en": "S state (that)",
+        "ja": "～と述べる、明言する",
+        "examples": [
+            {
+                "en": "The teacher stated the exam would be next week.",
+                "ja": "先生は試験が来週だと明言した。"
+            }
+        ]
+    },
+    {
+        "en": "S announce (that)",
+        "ja": "～と発表する",
+        "examples": [
+            {
+                "en": "The company announced it would be launch a new product.",
+                "ja": "会社は新製品を発売すると発表した。"
+            }
+        ]
+    },
+    {
+        "en": "S claim (that)",
+        "ja": "～と言い張る（真偽不明）",
+        "examples": [
+            {
+                "en": "He claimed he had never seen her before.",
+                "ja": "彼は彼女に会ったことがないと言い張った。"
+            }
+        ]
+    },
+    {
+        "en": "S argue (that)",
+        "ja": "～と主張する（根拠あり）",
+        "examples": [
+            {
+                "en": "The lawyer argued his client was innocent.",
+                "ja": "弁護士は依頼人が無罪だと主張した。"
+            }
+        ]
+    },
+    {
+        "en": "S explain (that)",
+        "ja": "～と説明する",
+        "examples": [
+            {
+                "en": "She explained she couldn't come becouse of the rain.",
+                "ja": "彼女は雨のせいで来られなかったと説明した。"
+            }
+        ]
+    }
+]

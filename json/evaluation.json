@@ -1,0 +1,561 @@
+[
+    {
+        "category": "difficulty",
+        "en": "It's difficult to (do)",
+        "ja": "～するのは難しい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "difficulty",
+        "en": "It's hard to (do)",
+        "ja": "～するのは難しい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "difficulty",
+        "en": "It's easy to (do)",
+        "ja": "～するのは簡単である",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "difficulty",
+        "en": "It's tough to (do)",
+        "ja": "～するのは困難である",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "difficulty",
+        "en": "It's safe to (do)",
+        "ja": "～するのは安全である",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "difficulty",
+        "en": "It's dangerous to (do)",
+        "ja": "～するのは危険である",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "possibility",
+        "en": "It's possible to (do)",
+        "ja": "～するのは可能である",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "possibility",
+        "en": "It's impossible to (do)",
+        "ja": "～するのは不可能である",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "possibility",
+        "en": "It's likely to (do)",
+        "ja": "～しそうである",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "possibility",
+        "en": "It's unlikely to (do)",
+        "ja": "～しそうにない",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "possibility",
+        "en": "It's common to (do)",
+        "ja": "～するのはよくある",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "possibility",
+        "en": "It's rare to (do)",
+        "ja": "～するのは珍しい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "possibility",
+        "en": "It's unusual to (do)",
+        "ja": "～するのは普通じゃない",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+
+
+
+
+
+    {
+        "category": "effect",
+        "en": "It's comfortable to (do)",
+        "ja": "～するのは快適だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "effect",
+        "en": "It's uncomfortable to (do)",
+        "ja": "～するのは不快だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "effect",
+        "en": "It's convenient to (do)",
+        "ja": "～するのは便利だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "effect",
+        "en": "It's useful to (do)",
+        "ja": "～するのは役に立つ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "effect",
+        "en": "It's helpful to (do)",
+        "ja": "～するのは役に立つ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "effect",
+        "en": "It's practical to (do)",
+        "ja": "～するのは実用的だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "effect",
+        "en": "It's efficient to (do)",
+        "ja": "～するのは効率的だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "effect",
+        "en": "It's ineffective to (do)",
+        "ja": "～するのは効果がない",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+
+
+
+
+
+    {
+        "category": "value",
+        "en": "It's necessary to (do)",
+        "ja": "～するのは必要だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "value",
+        "en": "It's essential to (do)",
+        "ja": "～するのは不可欠だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "value",
+        "en": "It's important to (do)",
+        "ja": "～するのは重要だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "value",
+        "en": "It's vital to (do)",
+        "ja": "～するのは極めて重要だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "value",
+        "en": "It's optional to (do)",
+        "ja": "～するのは任意だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "value",
+        "en": "It's wrong to (do)",
+        "ja": "～するのは間違っている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "value",
+        "en": "It's legal to (do)",
+        "ja": "～するのは合法だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "value",
+        "en": "It's illegal to (do)",
+        "ja": "～するのは違法だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "value",
+        "en": "It’s useless to (do)",
+        "ja": "～するのは無駄である",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "value",
+        "en": "It’s worth it to (do)",
+        "ja": "～する価値がある",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+
+
+
+
+
+    {
+        "category": "feeling",
+        "en": "It's nice to (do)",
+        "ja": "～するのはいいね",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's surprising to (do)",
+        "ja": "～するのは驚くべきことだ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's amazing to (do)",
+        "ja": "～するのはすごい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's wonderful to (do)",
+        "ja": "～するのは素晴らしい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's exciting to (do)",
+        "ja": "～するのはわくわくする",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's fun to (do)",
+        "ja": "～するのは楽しい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's pleasant to (do)",
+        "ja": "～するのは楽しい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's unpleasant to (do)",
+        "ja": "～するのは不愉快だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's sad to (do)",
+        "ja": "～するのは悲しい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's terrible to (do)",
+        "ja": "～するのはひどい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's awful to (do)",
+        "ja": "～するのはひどい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's embarrassing to (do)",
+        "ja": "～するのは恥ずかしい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's boring to (do)",
+        "ja": "～するのは退屈だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's strange to (do)",
+        "ja": "～するのは変だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "feeling",
+        "en": "It's odd to (do)",
+        "ja": "～するのは変だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+
+    
+
+
+
+    {
+        "category": "time",
+        "en": "It's time to (do)",
+        "ja": "～する時間だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "time",
+        "en": "It's too late to (do)",
+        "ja": "～するには遅すぎる",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "time",
+        "en": "It's too early to (do)",
+        "ja": "～するには早すぎる",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    }
+]
