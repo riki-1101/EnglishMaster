@@ -257,50 +257,6 @@
     },
     {
         "category": "感情",
-        "en": "It feels like",
-        "ja": "～ような感じがする",
-        "examples": [
-            {
-                "en": "It feels like it's going to rain.",
-                "ja": "雨が降るような気がする。"
-            }
-        ]
-    },
-    {
-        "category": "感情",
-        "en": "It looks like",
-        "ja": "～ように見える・～っぽい",
-        "examples": [
-            {
-                "en": "It looks like you're tired.",
-                "ja": "あなたは疲れてるように見える。"
-            }
-        ]
-    },
-    {
-        "category": "感情",
-        "en": "It sounds like",
-        "ja": "～ように聞こえる",
-        "examples": [
-            {
-                "en": "It sounds like he's angry.",
-                "ja": "彼は怒っているみたいだ。"
-            }
-        ]
-    },
-    {
-        "category": "感情",
-        "en": "It smells like",
-        "ja": "～ような匂いがする",
-        "examples": [
-            {
-                "en": "It smells like something is burning.",
-                "ja": "何かが焦げているような匂いがする。"
-            }
-        ]
-    },
-    {
-        "category": "感情",
         "en": "I appreciate",
         "ja": "～に感謝する",
         "examples": [
@@ -482,6 +438,17 @@
             {
                 "en": "It sounds like she's crying.",
                 "ja": "彼女、泣いているみたい。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It smells like",
+        "ja": "～ような匂いがする",
+        "examples": [
+            {
+                "en": "It smells like something is burning.",
+                "ja": "何かが焦げているような匂いがする。"
             }
         ]
     },
