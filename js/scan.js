@@ -10,7 +10,7 @@ fetch(`./json/${fileName}.json`)  // HTML名.json を読み込む
             data.forEach(phrase => {
                 if (phrase.category === selectedCategory) {
                     const li = document.createElement('li');
-                    li.classList.add('phrase');
+                    li.id = 'phrase';
                     li.innerHTML = `${phrase.en}`;
                     ul.appendChild(li);
                     li.onclick = function () {  // ポップアップ表示

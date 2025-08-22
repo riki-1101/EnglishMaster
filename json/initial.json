@@ -131,17 +131,6 @@
     },
     {
         "category": "意見",
-        "en": "It seems / It seems like",
-        "ja": "～と客観的に思う",
-        "examples": [
-            {
-                "en": "It seems he is busy.",
-                "ja": "彼は忙しいように思う。"
-            }
-        ]
-    },
-    {
-        "category": "意見",
         "en": "I believe / I believed",
         "ja": "～と信じる / ～と信じた",
         "examples": [
@@ -444,6 +433,132 @@
             {
                 "en": "She explained she couldn't come becouse of the rain.",
                 "ja": "彼女は雨のせいで来られなかったと説明した。"
+            }
+        ]
+    },
+
+
+
+
+
+    {
+        "category": "評価",
+        "en": "It seems / It seems like",
+        "ja": "～のように思える",
+        "examples": [
+            {
+                "en": "It seems he is busy.",
+                "ja": "彼は忙しいように思う。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It feels like",
+        "ja": "～のように感じる",
+        "examples": [
+            {
+                "en": "It feels like time is flying.",
+                "ja": "時間があっという間に過ぎている感じがする。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It looks like",
+        "ja": "見た感じ～のようだ",
+        "examples": [
+            {
+                "en": "It looks like it's going to rain.",
+                "ja": "見た感じ、雨が降りそうだ。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It sounds like",
+        "ja": "～のように聞こえる",
+        "examples": [
+            {
+                "en": "It sounds like she's crying.",
+                "ja": "彼女、泣いているみたい。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's like",
+        "ja": "～みたいだ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's not like",
+        "ja": "別に～ってわけじゃない",
+        "examples": [
+            {
+                "en": "It's not like I don't trust you.",
+                "ja": "別に君を信じていないわけじゃないよ。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's as if",
+        "ja": "まるで～かのようだ",
+        "examples": [
+            {
+                "en": "It's as if we're back in high school.",
+                "ja": "まるで高校時代に戻ったみたいだ。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's as though",
+        "ja": "～かのようだ",
+        "examples": [
+            {
+                "en": "It's as though we've met before.",
+                "ja": "まるで前に会ったことがあるみたい。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's true",
+        "ja": "～なのは事実だ",
+        "examples": [
+            {
+                "en": "It's true I don't have much experience, but I'm willing to learn.",
+                "ja": "経験が少ないのは事実だけど、学ぶ意欲はある。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's possible",
+        "ja": "～の可能性がある",
+        "examples": [
+            {
+                "en": "It's possible the project will be delayed.",
+                "ja": "そのプロジェクトが遅れる可能性がある。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's obvious",
+        "ja": "～なのは明らかだ",
+        "examples": [
+            {
+                "en": "It's obvious he likes her.",
+                "ja": "彼が彼女を好きなのは明らかだ。"
             }
         ]
     }

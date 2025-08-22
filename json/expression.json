@@ -418,6 +418,17 @@
     },
     {
         "category": "You",
+        "en": "You seem to (do)",
+        "ja": "～しているようだね",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
         "en": "You can (do)",
         "ja": "～していいよ",
         "examples": [
@@ -442,6 +453,17 @@
         "category": "You",
         "en": "You should (do)",
         "ja": "～した方がいいよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "You",
+        "en": "You might want to (do)",
+        "ja": "～した方がいいかもよ",
         "examples": [
             {
                 "en": "",
