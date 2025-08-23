@@ -11,6 +11,11 @@
     },
     {
         "category": "勉強",
+        "en": "cram for an exam",
+        "ja": "試験のために必死に詰め込む"
+    },
+    {
+        "category": "勉強",
         "en": "review the lesson",
         "ja": "復習する"
     },
@@ -18,6 +23,11 @@
         "category": "勉強",
         "en": "preview the lesson",
         "ja": "予習する"
+    },
+    {
+        "category": "勉強",
+        "en": "practice (sth)",
+        "ja": "～を練習する"
     },
     {
         "category": "勉強",
@@ -36,6 +46,11 @@
     },
     {
         "category": "勉強",
+        "en": "correct mistakes",
+        "ja": "間違いを直す"
+    },
+    {
+        "category": "勉強",
         "en": "read aloud",
         "ja": "声に出して読む"
     },
@@ -51,8 +66,8 @@
     },
     {
         "category": "勉強",
-        "en": "practice pronunciation",
-        "ja": "発音を練習する"
+        "en": "write an essay",
+        "ja": "作文を書く"
     },
     {
         "category": "勉強",
@@ -68,6 +83,16 @@
         "category": "勉強",
         "en": "improve (sth) skills",
         "ja": "～力を高める"
+    },
+    {
+        "category": "勉強",
+        "en": "focus on (sth)",
+        "ja": "～に集中する"
+    },
+    {
+        "category": "勉強",
+        "en": "lose concentration",
+        "ja": "集中力が切れる"
     },
 
 
@@ -133,6 +158,11 @@
         "category": "学校",
         "en": "get good grades",
         "ja": "良い成績を取る"
+    },
+    {
+        "category": "学校",
+        "en": "get a scholarship",
+        "ja": "奨学金をもらう"
     },
     {
         "category": "学校",
