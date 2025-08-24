@@ -16,6 +16,11 @@
     },
     {
         "category": "体調管理",
+        "en": "wash my hands",
+        "ja": "手を洗う"
+    },
+    {
+        "category": "体調管理",
         "en": "take medicine",
         "ja": "薬を飲む"
     },
