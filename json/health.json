@@ -86,16 +86,6 @@
     },
     {
         "category": "症状",
-        "en": "catch a cough",
-        "ja": "咳が出る"
-    },
-    {
-        "category": "症状",
-        "en": "catch a runny nose",
-        "ja": "鼻水が出る"
-    },
-    {
-        "category": "症状",
         "en": "feel tired",
         "ja": "疲れている"
     },
@@ -113,6 +103,16 @@
         "category": "症状",
         "en": "have a fever",
         "ja": "熱がある"
+    },
+    {
+        "category": "症状",
+        "en": "have a cough",
+        "ja": "咳が出る"
+    },
+    {
+        "category": "症状",
+        "en": "have a runny nose",
+        "ja": "鼻水が出る"
     },
     {
         "category": "症状",
