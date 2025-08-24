@@ -28,7 +28,7 @@ function populateVoiceList() {
         "en-AU": "オーストラリア英語",
         "en-CA": "カナダ英語"
     };
-    
+
     // 実際に voices に存在するものだけ option を作る
     Object.entries(langs).forEach(([code, label]) => {
         if (voices.some(v => v.lang === code)) {
@@ -53,4 +53,4 @@ function populateVoiceList() {
 }
 
 // 音声リストは非同期で読み込まれる場合があるのでイベントを使う
-speechSynthesis.onvoiceschanged = populateVoiceList;
+speechSynthesis.onvoiceschanged = populateVoiceList();
