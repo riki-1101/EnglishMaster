@@ -19,8 +19,11 @@ if( header != null) {
 
 function populateVoiceList() {
     const select = document.getElementById("country");
-    select.innerHTML = ""; // 初期化
     const voices = speechSynthesis.getVoices();
+
+    if (!voices.length) return; // voices がまだ来ていなければ描画せず終了
+
+    select.innerHTML = ""; // 初期化
 
     const langs = {
         "en-US": "アメリカ英語",
@@ -36,13 +39,13 @@ function populateVoiceList() {
 
         // voices に存在する場合のみ有効
         if (!voices.some(v => v.lang === code)) {
-            option.disabled = true; // 選択不可に
+            option.disabled = true;
         }
 
         select.appendChild(option);
     });
 
-    // LocalStorageから選択を復元
+    // LocalStorageから復元
     const saved = localStorage.getItem("selectedCountry");
     if (saved && select.querySelector(`option[value="${saved}"]`)) {
         select.value = saved;
@@ -54,8 +57,8 @@ function populateVoiceList() {
     });
 }
 
-// ページ読み込み時に一度描画
-populateVoiceList();
-
-// 音声リストが変化したら再描画（非同期対応）
+// voices が変化したら描画（スマホ対応）
 speechSynthesis.onvoiceschanged = populateVoiceList;
+
+// PC向け：すでに voices があれば描画
+populateVoiceList();
