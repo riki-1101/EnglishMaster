@@ -11,28 +11,46 @@ fetch(`./json/${fileName}.json`)  // HTML名.json を読み込む
                 if (phrase.category === selectedCategory) {
                     const li = document.createElement('li');
                     li.id = 'phrase';
-                    li.innerHTML = `${phrase.en}`;
+                    li.innerHTML = `
+                        ${phrase.en}
+                        <span class="play-sound" style="float:right; cursor:pointer;">🔊</span>
+                    `;
                     ul.appendChild(li);
-                    li.onclick = function () {  // ポップアップ表示
+
+                    // li全体をクリック → ポップアップ表示
+                    li.onclick = function (event) {
+                        if (event.target.classList.contains('play-sound')) return;
+
                         document.getElementById("en").textContent = phrase.en;
                         document.getElementById("ja").textContent = phrase.ja;
                         document.getElementById("popup").style.display = "flex";
-                        const ul = document.getElementById("example");
-                        ul.innerHTML = ""; // リセット
+
+                        const ulEx = document.getElementById("example");
+                        ulEx.innerHTML = "";
                         if (phrase.examples) {
                             phrase.examples.forEach(ex => {
-                                const li = document.createElement('li');
-                                li.innerHTML = `
+                                const liEx = document.createElement('li');
+                                liEx.innerHTML = `
                                     <p class="ex_en">${ex.en}</p>
                                     <p class="ex_ja">${ex.ja}</p>
                                 `;
-                                ul.appendChild(li);
+                                ulEx.appendChild(liEx);
                             });
                         }
                     };
+
+                    // 音声マーククリック → 読み上げ
+                    li.querySelector('.play-sound').addEventListener('click', function () {
+                        // () 内の文字を削除
+                        const textToSpeak = phrase.en.replace(/\(.*?\)/g, '').trim();
+                        const utterance = new SpeechSynthesisUtterance(textToSpeak);
+                        utterance.lang = 'en-US';
+                        speechSynthesis.speak(utterance);
+                    });
                 }
             });
         }
+
         renderList(); // 初期表示
 
         // ラジオボタン切り替え時
