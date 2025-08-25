@@ -356,7 +356,7 @@
 
 
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's nice to (do)",
         "ja": "～するのはいいね",
         "examples": [
@@ -367,7 +367,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's surprising to (do)",
         "ja": "～するのは驚くべきことだ",
         "examples": [
@@ -378,7 +378,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's amazing to (do)",
         "ja": "～するのはすごい",
         "examples": [
@@ -389,7 +389,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's wonderful to (do)",
         "ja": "～するのは素晴らしい",
         "examples": [
@@ -400,7 +400,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's exciting to (do)",
         "ja": "～するのはわくわくする",
         "examples": [
@@ -411,7 +411,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's fun to (do)",
         "ja": "～するのは楽しい",
         "examples": [
@@ -422,7 +422,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's pleasant to (do)",
         "ja": "～するのは楽しい",
         "examples": [
@@ -433,7 +433,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's unpleasant to (do)",
         "ja": "～するのは不愉快だ",
         "examples": [
@@ -444,7 +444,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's sad to (do)",
         "ja": "～するのは悲しい",
         "examples": [
@@ -455,7 +455,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's terrible to (do)",
         "ja": "～するのはひどい",
         "examples": [
@@ -466,7 +466,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's awful to (do)",
         "ja": "～するのはひどい",
         "examples": [
@@ -477,7 +477,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's embarrassing to (do)",
         "ja": "～するのは恥ずかしい",
         "examples": [
@@ -488,7 +488,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's boring to (do)",
         "ja": "～するのは退屈だ",
         "examples": [
@@ -499,7 +499,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's strange to (do)",
         "ja": "～するのは変だ",
         "examples": [
@@ -510,7 +510,7 @@
         ]
     },
     {
-        "category": "感情",
+        "category": "様態",
         "en": "It's odd to (do)",
         "ja": "～するのは変だ",
         "examples": [
