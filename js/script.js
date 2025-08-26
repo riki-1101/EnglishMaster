@@ -8,3 +8,9 @@ document.addEventListener("DOMContentLoaded", function () {
         nav.classList.toggle("open"); // ナビゲーションメニューの開閉
     });
 });
+
+document.addEventListener("contextmenu", (e) => {
+    if (e.target.tagName.toLowerCase() === "a") {
+        e.preventDefault(); // 右クリック/長押しメニューを無効化
+    }
+});
