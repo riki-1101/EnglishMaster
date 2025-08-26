@@ -113,6 +113,28 @@
             }
         ]
     },
+    {
+        "category": "認識",
+        "en": "I'm aware",
+        "ja": "～と気づいている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "認識",
+        "en": "I'm conscious",
+        "ja": "～と気づいている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
 
 
 
@@ -239,6 +261,39 @@
             }
         ]
     },
+    {
+        "category": "意見",
+        "en": "I'm sure",
+        "ja": "～と確信している（直感的）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I'm certain",
+        "ja": "～と確信している（根拠がある）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I'm afraid",
+        "ja": "～と残念ながら思う",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
 
 
 
@@ -299,6 +354,216 @@
             }
         ]
     },
+    {
+        "category": "感情",
+        "en": "I'm glad",
+        "ja": "～で嬉しい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm happy",
+        "ja": "～で幸せだ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm pleased",
+        "ja": "～で喜んでいる",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm delighted",
+        "ja": "～で大喜びである",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm proud",
+        "ja": "～を誇りに思っている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm thankful",
+        "ja": "～に感謝している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm grateful",
+        "ja": "～に感謝している（少し改まった感謝）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm relieved",
+        "ja": "～にほっとしている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm surprised",
+        "ja": "～に驚いている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm amazed",
+        "ja": "～にとても驚いている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm astonished",
+        "ja": "～にとても驚いている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm shocked",
+        "ja": "～にとても驚いている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm lucky",
+        "ja": "～とは運がいい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm fortunate",
+        "ja": "～とは幸運だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm sad",
+        "ja": "～で悲しい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm worried",
+        "ja": "～に心配している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm concerned",
+        "ja": "～に心配している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm disappointed",
+        "ja": "～とはがっかりだ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "感情",
+        "en": "I'm upset",
+        "ja": "～とは不快だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    
 
 
 
@@ -498,12 +763,67 @@
     },
     {
         "category": "評価",
+        "en": "It's said",
+        "ja": "～と言われている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "評価",
         "en": "It's true",
         "ja": "～なのは事実だ",
         "examples": [
             {
                 "en": "It's true I don't have much experience, but I'm willing to learn.",
                 "ja": "経験が少ないのは事実だけど、学ぶ意欲はある。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's clear",
+        "ja": "～なのは明らかだ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's obvious",
+        "ja": "～なのは明らかだ",
+        "examples": [
+            {
+                "en": "It's obvious he likes her.",
+                "ja": "彼が彼女を好きなのは明らかだ。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's natural",
+        "ja": "～なのは当然だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's strange",
+        "ja": "～なのは奇妙だ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
             }
         ]
     },
@@ -520,12 +840,23 @@
     },
     {
         "category": "評価",
-        "en": "It's obvious",
-        "ja": "～なのは明らかだ",
+        "en": "It's likely",
+        "ja": "～な気がする",
         "examples": [
             {
-                "en": "It's obvious he likes her.",
-                "ja": "彼が彼女を好きなのは明らかだ。"
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It's unlikely",
+        "ja": "～な気がしない",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
             }
         ]
     }

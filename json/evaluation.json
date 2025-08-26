@@ -434,7 +434,7 @@
     },
     {
         "category": "重要度",
-        "en": "It’s worth it to (do)",
+        "en": "It's worth it to (do)",
         "ja": "～する価値がある",
         "examples": [
             {
@@ -445,7 +445,7 @@
     },
     {
         "category": "重要度",
-        "en": "It’s advisable to (do)",
+        "en": "It's advisable to (do)",
         "ja": "～するのが望ましい",
         "examples": [
             {
@@ -456,7 +456,7 @@
     },
     {
         "category": "重要度",
-        "en": "It’s preferable to (do)",
+        "en": "It's preferable to (do)",
         "ja": "～する方が好ましい",
         "examples": [
             {
@@ -505,7 +505,7 @@
     },
     {
         "category": "適否",
-        "en": "It’s useless to (do)",
+        "en": "It's useless to (do)",
         "ja": "～するのは無駄である",
         "examples": [
             {
@@ -516,7 +516,7 @@
     },
     {
         "category": "適否",
-        "en": "It’s wise to (do)",
+        "en": "It's wise to (do)",
         "ja": "～するのは賢明だ",
         "examples": [
             {
@@ -527,7 +527,7 @@
     },
     {
         "category": "適否",
-        "en": "It’s foolish to (do)",
+        "en": "It's foolish to (do)",
         "ja": "～するのは愚かだ",
         "examples": [
             {
