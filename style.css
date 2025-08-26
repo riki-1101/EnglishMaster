@@ -21,6 +21,7 @@ main {
 
 a {
     text-decoration: none;
+    -webkit-touch-callout: none; /* 長押しメニュー防止 */
 }
 
 ul {
