@@ -1,8 +1,8 @@
 [
     {
         "category": "難易度",
-        "en": "It's difficult to (do)",
-        "ja": "～するのは難しい",
+        "en": "It's easy to (do)",
+        "ja": "～するのは簡単である",
         "examples": [
             {
                 "en": "",
@@ -12,8 +12,8 @@
     },
     {
         "category": "難易度",
-        "en": "It's hard to (do)",
-        "ja": "～するのは難しい",
+        "en": "It's safe to (do)",
+        "ja": "～するのは安全である",
         "examples": [
             {
                 "en": "",
@@ -34,8 +34,30 @@
     },
     {
         "category": "難易度",
-        "en": "It's easy to (do)",
-        "ja": "～するのは簡単である",
+        "en": "It's challenging to (do)",
+        "ja": "～するのはやりがいがある",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "難易度",
+        "en": "It's hard to (do)",
+        "ja": "～するのは難しい",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "難易度",
+        "en": "It's difficult to (do)",
+        "ja": "～するのは難しい",
         "examples": [
             {
                 "en": "",
@@ -47,17 +69,6 @@
         "category": "難易度",
         "en": "It's tough to (do)",
         "ja": "～するのは困難である",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
-    },
-    {
-        "category": "難易度",
-        "en": "It's safe to (do)",
-        "ja": "～するのは安全である",
         "examples": [
             {
                 "en": "",
