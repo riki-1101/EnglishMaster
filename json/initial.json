@@ -142,8 +142,8 @@
 
     {
         "category": "意見",
-        "en": "I think / I thought",
-        "ja": "～と主観的に思う / ～と思った",
+        "en": "I think",
+        "ja": "～だと主観的に思う",
         "examples": [
             {
                 "en": "I think it's a good idea.",
@@ -153,8 +153,8 @@
     },
     {
         "category": "意見",
-        "en": "I believe / I believed",
-        "ja": "～と信じる / ～と信じた",
+        "en": "I believe",
+        "ja": "～だと信じる",
         "examples": [
             {
                 "en": "I believe we can win.",
@@ -164,8 +164,8 @@
     },
     {
         "category": "意見",
-        "en": "I assume / I assumed",
-        "ja": "～と勝手に思い込む / ～と勝手に思い込んだ",
+        "en": "I assume",
+        "ja": "～だと勝手に思い込む",
         "examples": [
             {
                 "en": "I assumed you knew.",
@@ -175,8 +175,8 @@
     },
     {
         "category": "意見",
-        "en": "I suppose / I supposed",
-        "ja": "～と推測する / ～と推測した",
+        "en": "I suppose",
+        "ja": "～だと推測する",
         "examples": [
             {
                 "en": "I suppose he's right.",
@@ -187,11 +187,22 @@
     {
         "category": "意見",
         "en": "I guess",
-        "ja": "多分～と思う",
+        "ja": "多分～だと思う",
         "examples": [
             {
                 "en": "I guess you're busy.",
                 "ja": "多分あなたは忙しいだろうと思う。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
+        "en": "I bet",
+        "ja": "絶対～だと思う",
+        "examples": [
+            {
+                "en": "I bet you'll do great on the exam.",
+                "ja": "絶対あなたは試験が上手くいくと思う。"
             }
         ]
     },
@@ -209,7 +220,7 @@
     {
         "category": "意見",
         "en": "I expect",
-        "ja": "～と予想する",
+        "ja": "～だと予想する",
         "examples": [
             {
                 "en": "I expect it'll rain.",
@@ -219,8 +230,19 @@
     },
     {
         "category": "意見",
+        "en": "I imagine",
+        "ja": "～だと想像する",
+        "examples": [
+            {
+                "en": "I imagine that he's busy today.",
+                "ja": "彼は今日忙しいのだろうと思う。"
+            }
+        ]
+    },
+    {
+        "category": "意見",
         "en": "I suspect",
-        "ja": "～と疑う",
+        "ja": "～だと疑う",
         "examples": [
             {
                 "en": "I suspect he's lying.",
@@ -231,7 +253,7 @@
     {
         "category": "意見",
         "en": "I doubt",
-        "ja": "～とは思えない",
+        "ja": "～だとは思えない",
         "examples": [
             {
                 "en": "I doubt this plan wll work.",
@@ -242,7 +264,7 @@
     {
         "category": "意見",
         "en": "I promise",
-        "ja": "～と約束する",
+        "ja": "～だと約束する",
         "examples": [
             {
                 "en": "I promise I won't be late.",
@@ -253,7 +275,7 @@
     {
         "category": "意見",
         "en": "I swear",
-        "ja": "～と誓う",
+        "ja": "～だと誓う",
         "examples": [
             {
                 "en": "I swear I'll tell the truth.",
@@ -264,7 +286,7 @@
     {
         "category": "意見",
         "en": "I'm sure",
-        "ja": "～と確信している（直感的）",
+        "ja": "～だと確信している（直感的）",
         "examples": [
             {
                 "en": "",
@@ -275,7 +297,7 @@
     {
         "category": "意見",
         "en": "I'm certain",
-        "ja": "～と確信している（根拠がある）",
+        "ja": "～だと確信している（根拠がある）",
         "examples": [
             {
                 "en": "",
@@ -286,7 +308,7 @@
     {
         "category": "意見",
         "en": "I'm afraid",
-        "ja": "～と残念ながら思う",
+        "ja": "～だと残念ながら思う",
         "examples": [
             {
                 "en": "",
