@@ -700,7 +700,29 @@
     {
         "category": "姿勢",
         "en": "I'm willing to (do)",
-        "ja": "～する意思がある",
+        "ja": "～しても構わない（望んではないが）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "姿勢",
+        "en": "I'm unwilling to (do)",
+        "ja": "～する気がない",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "姿勢",
+        "en": "I'm reluctant to (do)",
+        "ja": "～するのに気が進まない",
         "examples": [
             {
                 "en": "",
@@ -711,7 +733,18 @@
     {
         "category": "姿勢",
         "en": "I'm eager to (do)",
-        "ja": "～したいと熱望している",
+        "ja": "～したくてたまらない（前向き）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "姿勢",
+        "en": "I'm anxious to (do)",
+        "ja": "～したくてたまらない（焦り気味）",
         "examples": [
             {
                 "en": "",
@@ -745,6 +778,17 @@
         "category": "姿勢",
         "en": "I'm determined to (do)",
         "ja": "～するのを決意している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "姿勢",
+        "en": "I'm ready to (do)",
+        "ja": "～する用意ができている",
         "examples": [
             {
                 "en": "",
