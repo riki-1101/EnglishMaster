@@ -34,8 +34,8 @@
     },
     {
         "category": "認識",
-        "en": "I forget / I forgot",
-        "ja": "～を忘れてしまう / ～を忘れていた",
+        "en": "I forget",
+        "ja": "～を忘れてしまう",
         "examples": [
             {
                 "en": "I forget you don't drink coffee.",
@@ -593,7 +593,7 @@
 
     {
         "category": "発言",
-        "en": "S say (that)",
+        "en": "S say",
         "ja": "～と言う（中立的で誰に言ったかまでは強調しない）",
         "examples": [
             {
@@ -604,7 +604,7 @@
     },
     {
         "category": "発言",
-        "en": "S tell sb (that)",
+        "en": "S tell sb",
         "ja": "(人)に～と伝える",
         "examples": [
             {
@@ -615,7 +615,7 @@
     },
     {
         "category": "発言",
-        "en": "S mention (that)",
+        "en": "S mention",
         "ja": "～に軽く言及する、触れる",
         "examples": [
             {
@@ -626,7 +626,7 @@
     },
     {
         "category": "発言",
-        "en": "S state (that)",
+        "en": "S state",
         "ja": "～と述べる、明言する",
         "examples": [
             {
@@ -637,7 +637,7 @@
     },
     {
         "category": "発言",
-        "en": "S announce (that)",
+        "en": "S announce",
         "ja": "～と発表する",
         "examples": [
             {
@@ -648,7 +648,7 @@
     },
     {
         "category": "発言",
-        "en": "S claim (that)",
+        "en": "S claim",
         "ja": "～と言い張る（真偽不明）",
         "examples": [
             {
@@ -659,7 +659,7 @@
     },
     {
         "category": "発言",
-        "en": "S argue (that)",
+        "en": "S argue",
         "ja": "～と主張する（根拠あり）",
         "examples": [
             {
@@ -670,7 +670,7 @@
     },
     {
         "category": "発言",
-        "en": "S explain (that)",
+        "en": "S explain",
         "ja": "～と説明する",
         "examples": [
             {
@@ -686,12 +686,23 @@
 
     {
         "category": "評価",
-        "en": "It seems / It seems like",
+        "en": "It seems",
         "ja": "～のように思える",
         "examples": [
             {
                 "en": "It seems he is busy.",
                 "ja": "彼は忙しいように思う。"
+            }
+        ]
+    },
+    {
+        "category": "評価",
+        "en": "It seems like",
+        "ja": "～のように思える",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
             }
         ]
     },

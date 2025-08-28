@@ -395,7 +395,28 @@
 
 
 
-
+    {
+        "category": "不安",
+        "en": "I'm careful about (sth)",
+        "ja": "～に気をつけている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "不安",
+        "en": "I'm concerned about (sth)",
+        "ja": "～を気にしている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
     {
         "category": "不安",
         "en": "I'm worried about (sth)",
@@ -409,8 +430,85 @@
     },
     {
         "category": "不安",
+        "en": "I'm uneasy about (sth)",
+        "ja": "～に落ち着かない",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "不安",
+        "en": "I'm nervous about (sth)",
+        "ja": "～に緊張している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "不安",
+        "en": "I'm anxious about (sth)",
+        "ja": "～について不安に感じている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "不安",
+        "en": "I'm worried sick about (sth)",
+        "ja": "～が心配でたまらない",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "不安",
         "en": "I'm frightened of (sth)",
         "ja": "～に怖がっている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "不安",
+        "en": "I'm scared of (sth)",
+        "ja": "～に怖がっている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "不安",
+        "en": "I'm terrified of (sth)",
+        "ja": "～をひどく恐れている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "不安",
+        "en": "I'm panicking about (sth)",
+        "ja": "～でパニックになっている",
         "examples": [
             {
                 "en": "",
@@ -447,6 +545,39 @@
     },
     {
         "category": "不満",
+        "en": "I'm opposed to (sth)",
+        "ja": "～に反対している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "不満",
+        "en": "I'm annoyed with (sth/sb)",
+        "ja": "～にイライラしている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "不満",
+        "en": "I'm frustrated with (sth)",
+        "ja": "～に苛立っている（思い通りにならず不満）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "不満",
         "en": "I'm tired of (sth)",
         "ja": "～にうんざりしている",
         "examples": [
@@ -459,7 +590,7 @@
     {
         "category": "不満",
         "en": "I'm fed up with (sth)",
-        "ja": "～にうんざりしている（かため）",
+        "ja": "～にうんざりしている（限界）",
         "examples": [
             {
                 "en": "",
@@ -467,17 +598,7 @@
             }
         ]
     },
-    {
-        "category": "不満",
-        "en": "I'm opposed to (sth)",
-        "ja": "～に反対している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
-    },
+    
 
 
 
@@ -518,8 +639,134 @@
     },
     {
         "category": "能力",
+        "en": "I'm capable of (sth)",
+        "ja": "～ができる（能力がある）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "能力",
+        "en": "I'm skilled at (sth)",
+        "ja": "～に熟練している（技術・実務）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "能力",
+        "en": "I'm proficient in (sth)",
+        "ja": "～に堪能である（言語・専門）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+
+
+
+
+
+    {
+        "category": "姿勢",
+        "en": "I'm willing to (do)",
+        "ja": "～する意思がある",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "姿勢",
+        "en": "I'm eager to (do)",
+        "ja": "～したいと熱望している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "姿勢",
+        "en": "I'm aiming to (do)",
+        "ja": "～するのを目指している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "I",
+        "en": "I'm trying to (do)",
+        "ja": "～しようと頑張っている",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "姿勢",
+        "en": "I'm determined to (do)",
+        "ja": "～するのを決意している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "姿勢",
+        "en": "I'm focused on (sth)",
+        "ja": "～に集中している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "姿勢",
         "en": "I'm committed to (sth)",
         "ja": "～に熱心に取り組んでいる",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "姿勢",
+        "en": "I'm dedicated to (sth)",
+        "ja": "～に専念している、打ち込んでいる",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "姿勢",
+        "en": "I'm devoted to (sth)",
+        "ja": "～に身を捧げている",
         "examples": [
             {
                 "en": "",
