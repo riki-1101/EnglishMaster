@@ -1,6 +1,6 @@
 [
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm glad to (do)",
         "ja": "～して嬉しい",
         "examples": [
@@ -11,7 +11,7 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm happy to (do)",
         "ja": "～して幸せだ",
         "examples": [
@@ -22,7 +22,7 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm pleased to (do)",
         "ja": "～して喜んでいる",
         "examples": [
@@ -33,7 +33,7 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm delighted to (do)",
         "ja": "～して大喜びである",
         "examples": [
@@ -44,7 +44,7 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm thrilled to (do)",
         "ja": "～してワクワクしている",
         "examples": [
@@ -55,7 +55,7 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm overjoyed to (do)",
         "ja": "～して大変喜んでいる",
         "examples": [
@@ -66,7 +66,7 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm proud to (do)",
         "ja": "～するのを誇りに思う",
         "examples": [
@@ -77,7 +77,7 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm lucky to (do)",
         "ja": "～するとは運がいい",
         "examples": [
@@ -88,7 +88,7 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm thankful to (do)",
         "ja": "～して感謝している",
         "examples": [
@@ -99,7 +99,7 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm pleased with (sth)",
         "ja": "～に喜んでいる",
         "examples": [
@@ -110,7 +110,7 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm delighted with (sth)",
         "ja": "～に大喜びである",
         "examples": [
@@ -121,7 +121,7 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm thrilled with (sth)",
         "ja": "～にワクワクしている",
         "examples": [
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm overjoyed with (sth)",
         "ja": "～に大変喜んでいる",
         "examples": [
@@ -143,9 +143,20 @@
         ]
     },
     {
-        "category": "喜び",
+        "category": "満足",
         "en": "I'm satisfied with (sth)",
         "ja": "～に満足している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "満足",
+        "en": "I'm over the moon about (sth)",
+        "ja": "～に大喜びしている（嬉しさMAX）",
         "examples": [
             {
                 "en": "",
@@ -326,17 +337,6 @@
 
     {
         "category": "興奮",
-        "en": "I'm interested in (sth)",
-        "ja": "～に興味がある",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
-    },
-    {
-        "category": "興奮",
         "en": "I'm fond of (sth)",
         "ja": "～が好きである",
         "examples": [
@@ -348,8 +348,8 @@
     },
     {
         "category": "興奮",
-        "en": "I'm excited at (sth)",
-        "ja": "～に興奮している",
+        "en": "I'm interested in (sth)",
+        "ja": "～に興味がある",
         "examples": [
             {
                 "en": "",
@@ -359,8 +359,8 @@
     },
     {
         "category": "興奮",
-        "en": "I'm looking forward to (sth)",
-        "ja": "～を楽しみにしている（丁寧）",
+        "en": "I'm curious about (sth)",
+        "ja": "～に好奇心がある",
         "examples": [
             {
                 "en": "",
@@ -381,8 +381,30 @@
     },
     {
         "category": "興奮",
-        "en": "I'm curious about (sth)",
-        "ja": "～に好奇心がある",
+        "en": "I'm looking forward to (sth)",
+        "ja": "～を楽しみにしている（丁寧）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "興奮",
+        "en": "I'm excited at (sth)",
+        "ja": "～に興奮している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "興奮",
+        "en": "I'm thrilled about (sth)",
+        "ja": "～にとても興奮している",
         "examples": [
             {
                 "en": "",
