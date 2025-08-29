@@ -2,7 +2,18 @@
     {
         "category": "I",
         "en": "I'm (C) / I was (C)",
-        "ja": "今～状態である / ～状態だった",
+        "ja": "今～状態である",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "I",
+        "en": "I was (C)",
+        "ja": "～状態だった",
         "examples": [
             {
                 "en": "",
@@ -13,7 +24,7 @@
     {
         "category": "I",
         "en": "I'm being (C)",
-        "ja": "今～な態度をとっている（一時的にしている）",
+        "ja": "今～な態度をとっている（一時的）",
         "examples": [
             {
                 "en": "",
@@ -23,8 +34,8 @@
     },
     {
         "category": "I",
-        "en": "I (do) / I (did)",
-        "ja": "普段～する / ～した",
+        "en": "I (do)",
+        "ja": "普段～する",
         "examples": [
             {
                 "en": "",
@@ -34,8 +45,63 @@
     },
     {
         "category": "I",
-        "en": "I do (do) / I did (do)",
-        "ja": "普段～するんだよ（強調） / ～したんだよ",
+        "en": "I (did)",
+        "ja": "～した",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "I",
+        "en": "I do (do)",
+        "ja": "普段～するんだよ（強調）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "I",
+        "en": "I did (do)",
+        "ja": "～したんだよ（強調）",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "I",
+        "en": "I've (done)",
+        "ja": "今までに～している",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "I",
+        "en": "I've just (done)",
+        "ja": "ちょうど～したところだ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "I",
+        "en": "I've never (done)",
+        "ja": "今までに一度も～したことがない",
         "examples": [
             {
                 "en": "",
