@@ -111,6 +111,17 @@
     },
     {
         "category": "I",
+        "en": "I had (done)",
+        "ja": "過去に～していた",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "I",
         "en": "I can (do)",
         "ja": "～できる可能性がある",
         "examples": [
