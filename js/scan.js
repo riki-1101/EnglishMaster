@@ -5,10 +5,11 @@ fetch(`./json/${fileName}.json`)  // HTML名.json を読み込む
     .then(res => res.json())
     .then(data => {
         function renderList() {
+            const selectedTense = document.querySelector('input[name="tense"]:checked').value;
             const selectedCategory = document.querySelector('input[name="category"]:checked').value;
             ul.innerHTML = ''; // 一旦クリア
             data.forEach(phrase => {
-                if (phrase.category === selectedCategory) {
+                if (phrase.tense === selectedTense && phrase.category === selectedCategory) {
                     const li = document.createElement('li');
                     li.id = 'phrase';
                     li.innerHTML = `
@@ -54,6 +55,9 @@ fetch(`./json/${fileName}.json`)  // HTML名.json を読み込む
         renderList(); // 初期表示
 
         // ラジオボタン切り替え時
+        document.querySelectorAll('input[name="tense"]').forEach(radio => {
+            radio.addEventListener('change', renderList);
+        });
         document.querySelectorAll('input[name="category"]').forEach(radio => {
             radio.addEventListener('change', renderList);
         });

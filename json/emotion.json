@@ -1,334 +1,187 @@
 [
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm glad to (do)",
-        "ja": "～して嬉しい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～して嬉しい"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm happy to (do)",
-        "ja": "～して幸せだ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～して幸せだ"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm pleased to (do)",
-        "ja": "～して喜んでいる",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～して喜んでいる"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm delighted to (do)",
-        "ja": "～して大喜びである",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～して大喜びである"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm thrilled to (do)",
-        "ja": "～してワクワクしている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～してワクワクしている"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm overjoyed to (do)",
-        "ja": "～して大変喜んでいる",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～して大変喜んでいる"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm proud to (do)",
-        "ja": "～するのを誇りに思う",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのを誇りに思う"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm lucky to (do)",
-        "ja": "～するとは運がいい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するとは運がいい"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm thankful to (do)",
-        "ja": "～して感謝している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～して感謝している"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm pleased with (sth)",
-        "ja": "～に喜んでいる",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に喜んでいる"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm delighted with (sth)",
-        "ja": "～に大喜びである",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に大喜びである"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm thrilled with (sth)",
-        "ja": "～にワクワクしている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～にワクワクしている"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm overjoyed with (sth)",
-        "ja": "～に大変喜んでいる",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に大変喜んでいる"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm satisfied with (sth)",
-        "ja": "～に満足している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に満足している"
     },
     {
+        "tense": "現在",
         "category": "満足",
         "en": "I'm over the moon about (sth)",
-        "ja": "～に大喜びしている（嬉しさMAX）",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に大喜びしている（嬉しさMAX）"
     },
     
 
 
 
 
-
     {
+        "tense": "現在",
         "category": "驚き",
         "en": "I'm surprised to (do)",
-        "ja": "～して驚いている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～して驚いている"
     },
     {
+        "tense": "現在",
         "category": "驚き",
         "en": "I'm astonished to (do)",
-        "ja": "～して非常に驚いている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～して非常に驚いている"
     },
     {
+        "tense": "現在",
         "category": "驚き",
         "en": "I'm surprised at (sth)",
-        "ja": "～に驚いている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に驚いている"
     },
     {
+        "tense": "現在",
         "category": "驚き",
         "en": "I'm amazed at (sth)",
-        "ja": "～にひどく驚いている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～にひどく驚いている"
     },
     {
+        "tense": "現在",
         "category": "驚き",
         "en": "I'm astonished at (sth)",
-        "ja": "～に非常に驚いている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に非常に驚いている"
     },
     {
+        "tense": "現在",
         "category": "驚き",
         "en": "I'm shocked at (sth)",
-        "ja": "～にショックを受けている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～にショックを受けている"
     },
 
 
 
 
 
-
     {
+        "tense": "現在",
         "category": "悲しみ",
         "en": "I'm sorry to (do)",
-        "ja": "～して残念だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～して残念だ"
     },
     {
+        "tense": "現在",
         "category": "悲しみ",
         "en": "I'm sad to (do)",
-        "ja": "～して悲しい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～して悲しい"
     },
     {
+        "tense": "現在",
         "category": "悲しみ",
         "en": "I'm disappointed to (do)",
-        "ja": "～してがっかりだ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～してがっかりだ"
     },
     {
+        "tense": "現在",
         "category": "悲しみ",
         "en": "I'm regretful to (do)",
-        "ja": "～して後悔している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～して後悔している"
     },
     {
+        "tense": "現在",
         "category": "悲しみ",
         "en": "I'm upset to (do)",
-        "ja": "～してうろたえた",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～してうろたえた"
     },
     {
+        "tense": "現在",
         "category": "悲しみ",
         "en": "I'm disappointed at (sth)",
-        "ja": "～にがっかりしている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～にがっかりしている"
     },
     {
+        "tense": "現在",
         "category": "悲しみ",
         "en": "I'm regretful about (sth)",
-        "ja": "～を後悔している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～を後悔している"
     },
     {
+        "tense": "現在",
         "category": "悲しみ",
         "en": "I'm heartbroken over (sth)",
-        "ja": "～に悲嘆にくれる",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に悲嘆にくれる"
     },
 
 
@@ -336,81 +189,46 @@
 
 
     {
+        "tense": "現在",
         "category": "興奮",
         "en": "I'm fond of (sth)",
-        "ja": "～が好きである",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～が好きである"
     },
     {
+        "tense": "現在",
         "category": "興奮",
         "en": "I'm interested in (sth)",
-        "ja": "～に興味がある",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に興味がある"
     },
     {
+        "tense": "現在",
         "category": "興奮",
         "en": "I'm curious about (sth)",
-        "ja": "～に好奇心がある",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に好奇心がある"
     },
     {
+        "tense": "現在",
         "category": "興奮",
         "en": "I feel like (sth)",
-        "ja": "～な気分である",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～な気分である"
     },
     {
+        "tense": "現在",
         "category": "興奮",
         "en": "I'm looking forward to (sth)",
-        "ja": "～を楽しみにしている（丁寧）",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～を楽しみにしている（丁寧）"
     },
     {
+        "tense": "現在",
         "category": "興奮",
         "en": "I'm excited at (sth)",
-        "ja": "～に興奮している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に興奮している"
     },
     {
+        "tense": "現在",
         "category": "興奮",
         "en": "I'm thrilled about (sth)",
-        "ja": "～にとても興奮している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～にとても興奮している"
     },
 
 
@@ -418,125 +236,70 @@
 
 
     {
+        "tense": "現在",
         "category": "不安",
         "en": "I'm careful about (sth)",
-        "ja": "～に気をつけている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に気をつけている"
     },
     {
+        "tense": "現在",
         "category": "不安",
         "en": "I'm concerned about (sth)",
-        "ja": "～を気にしている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～を気にしている"
     },
     {
+        "tense": "現在",
         "category": "不安",
         "en": "I'm worried about (sth)",
-        "ja": "～を心配している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～を心配している"
     },
     {
+        "tense": "現在",
         "category": "不安",
         "en": "I'm uneasy about (sth)",
-        "ja": "～に落ち着かない",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に落ち着かない"
     },
     {
+        "tense": "現在",
         "category": "不安",
         "en": "I'm nervous about (sth)",
-        "ja": "～に緊張している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に緊張している"
     },
     {
+        "tense": "現在",
         "category": "不安",
         "en": "I'm anxious about (sth)",
-        "ja": "～について不安に感じている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～について不安に感じている"
     },
     {
+        "tense": "現在",
         "category": "不安",
         "en": "I'm worried sick about (sth)",
-        "ja": "～が心配でたまらない",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～が心配でたまらない"
     },
     {
+        "tense": "現在",
         "category": "不安",
         "en": "I'm frightened of (sth)",
-        "ja": "～に怖がっている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に怖がっている"
     },
     {
+        "tense": "現在",
         "category": "不安",
         "en": "I'm scared of (sth)",
-        "ja": "～に怖がっている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に怖がっている"
     },
     {
+        "tense": "現在",
         "category": "不安",
         "en": "I'm terrified of (sth)",
-        "ja": "～をひどく恐れている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～をひどく恐れている"
     },
     {
+        "tense": "現在",
         "category": "不安",
         "en": "I'm panicking about (sth)",
-        "ja": "～でパニックになっている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～でパニックになっている"
     },
 
 
@@ -544,153 +307,87 @@
 
 
     {
+        "tense": "現在",
         "category": "不満",
         "en": "I'm unhappy with (sth)",
-        "ja": "～に不満がある",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に不満がある"
     },
     {
+        "tense": "現在",
         "category": "不満",
         "en": "I'm dissatisfied with (sth)",
-        "ja": "～に満足していない",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に満足していない"
     },
     {
+        "tense": "現在",
         "category": "不満",
         "en": "I'm opposed to (sth)",
-        "ja": "～に反対している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に反対している"
     },
     {
+        "tense": "現在",
         "category": "不満",
         "en": "I'm annoyed with (sth/sb)",
-        "ja": "～にイライラしている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～にイライラしている"
     },
     {
+        "tense": "現在",
         "category": "不満",
         "en": "I'm frustrated with (sth)",
-        "ja": "～に苛立っている（思い通りにならず不満）",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に苛立っている（思い通りにならず不満）"
     },
     {
+        "tense": "現在",
         "category": "不満",
         "en": "I'm tired of (sth)",
-        "ja": "～にうんざりしている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～にうんざりしている"
     },
     {
+        "tense": "現在",
         "category": "不満",
         "en": "I'm fed up with (sth)",
-        "ja": "～にうんざりしている（限界）",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～にうんざりしている（限界）"
     },
     
 
 
 
 
-
     {
+        "tense": "現在",
         "category": "能力",
         "en": "I'm used to (sth)",
-        "ja": "～に慣れている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に慣れている"
     },
     {
+        "tense": "現在",
         "category": "能力",
         "en": "I'm accustomed to (sth)",
-        "ja": "～に慣れている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に慣れている"
     },
     {
+        "tense": "現在",
         "category": "能力",
         "en": "I'm good at (sth)",
-        "ja": "～が得意である",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～が得意である"
     },
     {
+        "tense": "現在",
         "category": "能力",
         "en": "I'm capable of (sth)",
-        "ja": "～ができる（能力がある）",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～ができる（能力がある）"
     },
     {
+        "tense": "現在",
         "category": "能力",
         "en": "I'm skilled at (sth)",
-        "ja": "～に熟練している（技術・実務）",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に熟練している（技術・実務）"
     },
     {
+        "tense": "現在",
         "category": "能力",
         "en": "I'm proficient in (sth)",
-        "ja": "～に堪能である（言語・専門）",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に堪能である（言語・専門）"
     },
 
 
@@ -698,146 +395,564 @@
 
 
     {
+        "tense": "現在",
         "category": "姿勢",
         "en": "I'm willing to (do)",
-        "ja": "～しても構わない（望んではないが）",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～しても構わない（望んではないが）"
     },
     {
+        "tense": "現在",
         "category": "姿勢",
         "en": "I'm unwilling to (do)",
-        "ja": "～する気がない",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～する気がない"
     },
     {
+        "tense": "現在",
         "category": "姿勢",
         "en": "I'm reluctant to (do)",
-        "ja": "～するのに気が進まない",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのに気が進まない"
     },
     {
+        "tense": "現在",
         "category": "姿勢",
         "en": "I'm eager to (do)",
-        "ja": "～したくてたまらない（前向き）",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～したくてたまらない（前向き）"
     },
     {
+        "tense": "現在",
         "category": "姿勢",
         "en": "I'm anxious to (do)",
-        "ja": "～したくてたまらない（焦り気味）",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～したくてたまらない（焦り気味）"
     },
     {
+        "tense": "現在",
         "category": "姿勢",
         "en": "I'm aiming to (do)",
-        "ja": "～するのを目指している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのを目指している"
     },
     {
+        "tense": "現在",
         "category": "I",
         "en": "I'm trying to (do)",
-        "ja": "～しようと頑張っている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～しようと頑張っている"
     },
     {
+        "tense": "現在",
         "category": "姿勢",
         "en": "I'm determined to (do)",
-        "ja": "～するのを決意している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのを決意している"
     },
     {
+        "tense": "現在",
         "category": "姿勢",
         "en": "I'm ready to (do)",
-        "ja": "～する用意ができている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～する用意ができている"
     },
     {
+        "tense": "現在",
         "category": "姿勢",
         "en": "I'm focused on (sth)",
-        "ja": "～に集中している",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に集中している"
     },
     {
+        "tense": "現在",
         "category": "姿勢",
         "en": "I'm committed to (sth)",
-        "ja": "～に熱心に取り組んでいる",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に熱心に取り組んでいる"
     },
     {
+        "tense": "現在",
         "category": "姿勢",
         "en": "I'm dedicated to (sth)",
-        "ja": "～に専念している、打ち込んでいる",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に専念している、打ち込んでいる"
     },
     {
+        "tense": "現在",
         "category": "姿勢",
         "en": "I'm devoted to (sth)",
-        "ja": "～に身を捧げている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～に身を捧げている"
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was glad to (do)",
+        "ja": "～して嬉しかった"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was happy to (do)",
+        "ja": "～して幸せだった"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was pleased to (do)",
+        "ja": "～して喜んでいた"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was delighted to (do)",
+        "ja": "～して大喜びだった"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was thrilled to (do)",
+        "ja": "～してワクワクしていた"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was overjoyed to (do)",
+        "ja": "～して大変喜んでいた"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was proud to (do)",
+        "ja": "～するのを誇りに思っていた"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was lucky to (do)",
+        "ja": "～するとは運がよかった"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was thankful to (do)",
+        "ja": "～して感謝していた"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was pleased with (sth)",
+        "ja": "～に喜んでいた"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was delighted with (sth)",
+        "ja": "～に大喜びだった"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was thrilled with (sth)",
+        "ja": "～にワクワクしていた"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was overjoyed with (sth)",
+        "ja": "～に大変喜んでいた"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was satisfied with (sth)",
+        "ja": "～に満足していた"
+    },
+    {
+        "tense": "過去",
+        "category": "満足",
+        "en": "I was over the moon about (sth)",
+        "ja": "～に大喜びだった（嬉しさMAX）"
+    },
+    
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "驚き",
+        "en": "I was surprised to (do)",
+        "ja": "～して驚いていた"
+    },
+    {
+        "tense": "過去",
+        "category": "驚き",
+        "en": "I was astonished to (do)",
+        "ja": "～して非常に驚いていた"
+    },
+    {
+        "tense": "過去",
+        "category": "驚き",
+        "en": "I was surprised at (sth)",
+        "ja": "～に驚いていた"
+    },
+    {
+        "tense": "過去",
+        "category": "驚き",
+        "en": "I was amazed at (sth)",
+        "ja": "～にひどく驚いていた"
+    },
+    {
+        "tense": "過去",
+        "category": "驚き",
+        "en": "I was astonished at (sth)",
+        "ja": "～に非常に驚いていた"
+    },
+    {
+        "tense": "過去",
+        "category": "驚き",
+        "en": "I was shocked at (sth)",
+        "ja": "～にショックを受けていた"
+    },
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "悲しみ",
+        "en": "I was sorry to (do)",
+        "ja": "～して残念だった"
+    },
+    {
+        "tense": "過去",
+        "category": "悲しみ",
+        "en": "I was sad to (do)",
+        "ja": "～して悲しかった"
+    },
+    {
+        "tense": "過去",
+        "category": "悲しみ",
+        "en": "I was disappointed to (do)",
+        "ja": "～してがっかりだった"
+    },
+    {
+        "tense": "過去",
+        "category": "悲しみ",
+        "en": "I was regretful to (do)",
+        "ja": "～して後悔していた"
+    },
+    {
+        "tense": "過去",
+        "category": "悲しみ",
+        "en": "I was upset to (do)",
+        "ja": "～してうろたえていた"
+    },
+    {
+        "tense": "過去",
+        "category": "悲しみ",
+        "en": "I was disappointed at (sth)",
+        "ja": "～にがっかりしていた"
+    },
+    {
+        "tense": "過去",
+        "category": "悲しみ",
+        "en": "I was regretful about (sth)",
+        "ja": "～を後悔していた"
+    },
+    {
+        "tense": "過去",
+        "category": "悲しみ",
+        "en": "I was heartbroken over (sth)",
+        "ja": "～に悲嘆にくれていた"
+    },
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "興奮",
+        "en": "I was fond of (sth)",
+        "ja": "～が好きだった"
+    },
+    {
+        "tense": "過去",
+        "category": "興奮",
+        "en": "I was interested in (sth)",
+        "ja": "～に興味があった"
+    },
+    {
+        "tense": "過去",
+        "category": "興奮",
+        "en": "I was curious about (sth)",
+        "ja": "～に好奇心があった"
+    },
+    {
+        "tense": "過去",
+        "category": "興奮",
+        "en": "I feel like (sth)",
+        "ja": "～な気分だった"
+    },
+    {
+        "tense": "過去",
+        "category": "興奮",
+        "en": "I was looking forward to (sth)",
+        "ja": "～を楽しみにしていた（丁寧）"
+    },
+    {
+        "tense": "過去",
+        "category": "興奮",
+        "en": "I was excited at (sth)",
+        "ja": "～に興奮していた"
+    },
+    {
+        "tense": "過去",
+        "category": "興奮",
+        "en": "I was thrilled about (sth)",
+        "ja": "～にとても興奮していた"
+    },
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "不安",
+        "en": "I was careful about (sth)",
+        "ja": "～に気をつけていた"
+    },
+    {
+        "tense": "過去",
+        "category": "不安",
+        "en": "I was concerned about (sth)",
+        "ja": "～を気にしていた"
+    },
+    {
+        "tense": "過去",
+        "category": "不安",
+        "en": "I was worried about (sth)",
+        "ja": "～を心配していた"
+    },
+    {
+        "tense": "過去",
+        "category": "不安",
+        "en": "I was uneasy about (sth)",
+        "ja": "～に落ち着かなかった"
+    },
+    {
+        "tense": "過去",
+        "category": "不安",
+        "en": "I was nervous about (sth)",
+        "ja": "～に緊張していた"
+    },
+    {
+        "tense": "過去",
+        "category": "不安",
+        "en": "I was anxious about (sth)",
+        "ja": "～について不安に感じていた"
+    },
+    {
+        "tense": "過去",
+        "category": "不安",
+        "en": "I was worried sick about (sth)",
+        "ja": "～が心配でたまらなかった"
+    },
+    {
+        "tense": "過去",
+        "category": "不安",
+        "en": "I was frightened of (sth)",
+        "ja": "～に怖がっていた"
+    },
+    {
+        "tense": "過去",
+        "category": "不安",
+        "en": "I was scared of (sth)",
+        "ja": "～に怖がっていた"
+    },
+    {
+        "tense": "過去",
+        "category": "不安",
+        "en": "I was terrified of (sth)",
+        "ja": "～をひどく恐れていた"
+    },
+    {
+        "tense": "過去",
+        "category": "不安",
+        "en": "I was panicking about (sth)",
+        "ja": "～でパニックになっていた"
+    },
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "不満",
+        "en": "I was unhappy with (sth)",
+        "ja": "～に不満があった"
+    },
+    {
+        "tense": "過去",
+        "category": "不満",
+        "en": "I was dissatisfied with (sth)",
+        "ja": "～に満足していなかった"
+    },
+    {
+        "tense": "過去",
+        "category": "不満",
+        "en": "I was opposed to (sth)",
+        "ja": "～に反対していた"
+    },
+    {
+        "tense": "過去",
+        "category": "不満",
+        "en": "I was annoyed with (sth/sb)",
+        "ja": "～にイライラしていた"
+    },
+    {
+        "tense": "過去",
+        "category": "不満",
+        "en": "I was frustrated with (sth)",
+        "ja": "～に苛立っていた（思い通りにならず不満）"
+    },
+    {
+        "tense": "過去",
+        "category": "不満",
+        "en": "I was tired of (sth)",
+        "ja": "～にうんざりしていた"
+    },
+    {
+        "tense": "過去",
+        "category": "不満",
+        "en": "I was fed up with (sth)",
+        "ja": "～にうんざりしていた（限界）"
+    },
+    
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "能力",
+        "en": "I was used to (sth)",
+        "ja": "～に慣れていた"
+    },
+    {
+        "tense": "過去",
+        "category": "能力",
+        "en": "I was accustomed to (sth)",
+        "ja": "～に慣れていた"
+    },
+    {
+        "tense": "過去",
+        "category": "能力",
+        "en": "I was good at (sth)",
+        "ja": "～が得意だった"
+    },
+    {
+        "tense": "過去",
+        "category": "能力",
+        "en": "I was capable of (sth)",
+        "ja": "～ができた（能力があった）"
+    },
+    {
+        "tense": "過去",
+        "category": "能力",
+        "en": "I was skilled at (sth)",
+        "ja": "～に熟練していた（技術・実務）"
+    },
+    {
+        "tense": "過去",
+        "category": "能力",
+        "en": "I was proficient in (sth)",
+        "ja": "～に堪能だった（言語・専門）"
+    },
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "姿勢",
+        "en": "I was willing to (do)",
+        "ja": "～しても構わなかった（望んではないが）"
+    },
+    {
+        "tense": "過去",
+        "category": "姿勢",
+        "en": "I was unwilling to (do)",
+        "ja": "～する気がなかった"
+    },
+    {
+        "tense": "過去",
+        "category": "姿勢",
+        "en": "I was reluctant to (do)",
+        "ja": "～するのに気が進まなかった"
+    },
+    {
+        "tense": "過去",
+        "category": "姿勢",
+        "en": "I was eager to (do)",
+        "ja": "～したくてたまらなかった（前向き）"
+    },
+    {
+        "tense": "過去",
+        "category": "姿勢",
+        "en": "I was anxious to (do)",
+        "ja": "～したくてたまらなかった（焦り気味）"
+    },
+    {
+        "tense": "過去",
+        "category": "姿勢",
+        "en": "I was aiming to (do)",
+        "ja": "～するのを目指していた"
+    },
+    {
+        "tense": "過去",
+        "category": "I",
+        "en": "I was trying to (do)",
+        "ja": "～しようと頑張っていた"
+    },
+    {
+        "tense": "過去",
+        "category": "姿勢",
+        "en": "I was determined to (do)",
+        "ja": "～するのを決意していた"
+    },
+    {
+        "tense": "過去",
+        "category": "姿勢",
+        "en": "I was ready to (do)",
+        "ja": "～する用意ができていた"
+    },
+    {
+        "tense": "過去",
+        "category": "姿勢",
+        "en": "I was focused on (sth)",
+        "ja": "～に集中していた"
+    },
+    {
+        "tense": "過去",
+        "category": "姿勢",
+        "en": "I was committed to (sth)",
+        "ja": "～に熱心に取り組んでいた"
+    },
+    {
+        "tense": "過去",
+        "category": "姿勢",
+        "en": "I was dedicated to (sth)",
+        "ja": "～に専念していた、打ち込んでいた"
+    },
+    {
+        "tense": "過去",
+        "category": "姿勢",
+        "en": "I was devoted to (sth)",
+        "ja": "～に身を捧げていた"
     }
 ]

@@ -1,102 +1,57 @@
 [
     {
+        "tense": "現在",
         "category": "難易度",
         "en": "It's easy to (do)",
-        "ja": "～するのは簡単である",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは簡単である"
     },
     {
+        "tense": "現在",
         "category": "難易度",
         "en": "It's safe to (do)",
-        "ja": "～するのは安全である",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは安全である"
     },
     {
+        "tense": "現在",
         "category": "難易度",
         "en": "It's tricky to (do)",
-        "ja": "～するのはやや難しい（扱いづらい）",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのはやや難しい（扱いづらい）"
     },
     {
+        "tense": "現在",
         "category": "難易度",
         "en": "It's challenging to (do)",
-        "ja": "～するのはやりがいがある",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのはやりがいがある"
     },
     {
+        "tense": "現在",
         "category": "難易度",
         "en": "It's hard to (do)",
-        "ja": "～するのは難しい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは難しい"
     },
     {
+        "tense": "現在",
         "category": "難易度",
         "en": "It's difficult to (do)",
-        "ja": "～するのは難しい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは難しい"
     },
     {
+        "tense": "現在",
         "category": "難易度",
         "en": "It's tough to (do)",
-        "ja": "～するのは困難である",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは困難である"
     },
     {
+        "tense": "現在",
         "category": "難易度",
         "en": "It's risky to (do)",
-        "ja": "～するのはリスクがある",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのはリスクがある"
     },
     {
+        "tense": "現在",
         "category": "難易度",
         "en": "It's dangerous to (do)",
-        "ja": "～するのは危険である",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは危険である"
     },
 
 
@@ -104,114 +59,64 @@
 
 
     {
+        "tense": "現在",
         "category": "可能性",
         "en": "It's possible to (do)",
-        "ja": "～するのは可能である",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは可能である"
     },
     {
+        "tense": "現在",
         "category": "可能性",
         "en": "It's impossible to (do)",
-        "ja": "～するのは不可能である",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは不可能である"
     },
     {
+        "tense": "現在",
         "category": "可能性",
         "en": "It's likely to (do)",
-        "ja": "～しそうである",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～しそうである"
     },
     {
+        "tense": "現在",
         "category": "可能性",
         "en": "It's unlikely to (do)",
-        "ja": "～しそうにない",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～しそうにない"
     },
     {
+        "tense": "現在",
         "category": "可能性",
         "en": "It's certain to (do)",
-        "ja": "～するのは確実だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは確実だ"
     },
     {
+        "tense": "現在",
         "category": "可能性",
         "en": "It's bound to (do)",
-        "ja": "必ず～するだろう（口語）",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "必ず～するだろう（口語）"
     },
     {
+        "tense": "現在",
         "category": "可能性",
         "en": "It's inevitable to (do)",
-        "ja": "～するのは避けられない",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは避けられない"
     },
     {
+        "tense": "現在",
         "category": "可能性",
         "en": "It's common to (do)",
-        "ja": "～するのはよくある",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのはよくある"
     },
     {
+        "tense": "現在",
         "category": "可能性",
         "en": "It's rare to (do)",
-        "ja": "～するのは珍しい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは珍しい"
     },
     {
+        "tense": "現在",
         "category": "可能性",
         "en": "It's unusual to (do)",
-        "ja": "～するのは普通じゃない",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは普通じゃない"
     },
 
 
@@ -219,125 +124,70 @@
 
 
     {
+        "tense": "現在",
         "category": "有用性",
         "en": "It's convenient to (do)",
-        "ja": "～するのは便利だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは便利だ"
     },
     {
+        "tense": "現在",
         "category": "有用性",
         "en": "It's comfortable to (do)",
-        "ja": "～するのは快適だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは快適だ"
     },
     {
+        "tense": "現在",
         "category": "有用性",
         "en": "It's uncomfortable to (do)",
-        "ja": "～するのは不快だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは不快だ"
     },
     {
+        "tense": "現在",
         "category": "有用性",
         "en": "It's useful to (do)",
-        "ja": "～するのは役に立つ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは役に立つ"
     },
     {
+        "tense": "現在",
         "category": "有用性",
         "en": "It's helpful to (do)",
-        "ja": "～するのは役に立つ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは役に立つ"
     },
     {
+        "tense": "現在",
         "category": "有用性",
         "en": "It's beneficial to (do)",
-        "ja": "～するのは有益だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは有益だ"
     },
     {
+        "tense": "現在",
         "category": "有用性",
         "en": "It's practical to (do)",
-        "ja": "～するのは実用的だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは実用的だ"
     },
     {
+        "tense": "現在",
         "category": "有用性",
         "en": "It's efficient to (do)",
-        "ja": "～するのは効率的だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは効率的だ"
     },
     {
+        "tense": "現在",
         "category": "有用性",
         "en": "It's productive to (do)",
-        "ja": "～するのは生産的だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは生産的だ"
     },
     {
+        "tense": "現在",
         "category": "有用性",
         "en": "It's ineffective to (do)",
-        "ja": "～するのは効果がない",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは効果がない"
     },
     {
+        "tense": "現在",
         "category": "有用性",
         "en": "It's pointless to (do)",
-        "ja": "～するのは無意味だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは無意味だ"
     },
 
 
@@ -345,125 +195,70 @@
 
 
     {
+        "tense": "現在",
         "category": "重要度",
         "en": "It's necessary to (do)",
-        "ja": "～するのは必要だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは必要だ"
     },
     {
+        "tense": "現在",
         "category": "重要度",
         "en": "It's unnecessary to (do)",
-        "ja": "～する必要はない",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～する必要はない"
     },
     {
+        "tense": "現在",
         "category": "重要度",
         "en": "It's essential to (do)",
-        "ja": "～するのは不可欠だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは不可欠だ"
     },
     {
+        "tense": "現在",
         "category": "重要度",
         "en": "It's important to (do)",
-        "ja": "～するのは重要だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは重要だ"
     },
     {
+        "tense": "現在",
         "category": "重要度",
         "en": "It's vital to (do)",
-        "ja": "～するのは極めて重要だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは極めて重要だ"
     },
     {
+        "tense": "現在",
         "category": "重要度",
         "en": "It's crucial to (do)",
-        "ja": "～するのは決定的に重要だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは決定的に重要だ"
     },
     {
+        "tense": "現在",
         "category": "重要度",
         "en": "It's mandatory to (do)",
-        "ja": "～するのは義務だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは義務だ"
     },
     {
+        "tense": "現在",
         "category": "重要度",
         "en": "It's optional to (do)",
-        "ja": "～するのは任意だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは任意だ"
     },
     {
+        "tense": "現在",
         "category": "重要度",
         "en": "It's worth it to (do)",
-        "ja": "～する価値がある",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～する価値がある"
     },
     {
+        "tense": "現在",
         "category": "重要度",
         "en": "It's advisable to (do)",
-        "ja": "～するのが望ましい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのが望ましい"
     },
     {
+        "tense": "現在",
         "category": "重要度",
         "en": "It's preferable to (do)",
-        "ja": "～する方が好ましい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～する方が好ましい"
     },
 
 
@@ -471,103 +266,58 @@
 
 
     {
+        "tense": "現在",
         "category": "適否",
         "en": "It's wrong to (do)",
-        "ja": "～するのは間違っている",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは間違っている"
     },
     {
+        "tense": "現在",
         "category": "適否",
         "en": "It's legal to (do)",
-        "ja": "～するのは合法だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは合法だ"
     },
     {
+        "tense": "現在",
         "category": "適否",
         "en": "It's illegal to (do)",
-        "ja": "～するのは違法だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは違法だ"
     },
     {
+        "tense": "現在",
         "category": "適否",
         "en": "It's useless to (do)",
-        "ja": "～するのは無駄である",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは無駄である"
     },
     {
+        "tense": "現在",
         "category": "適否",
         "en": "It's wise to (do)",
-        "ja": "～するのは賢明だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは賢明だ"
     },
     {
+        "tense": "現在",
         "category": "適否",
         "en": "It's foolish to (do)",
-        "ja": "～するのは愚かだ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは愚かだ"
     },
     {
+        "tense": "現在",
         "category": "適否",
         "en": "It's acceptable to (do)",
-        "ja": "～するのは許容される",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは許容される"
     },
     {
+        "tense": "現在",
         "category": "適否",
         "en": "It's appropriate to (do)",
-        "ja": "～するのは適切だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは適切だ"
     },
     {
+        "tense": "現在",
         "category": "適否",
         "en": "It's inappropriate to (do)",
-        "ja": "～するのは不適切だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは不適切だ"
     },
 
 
@@ -576,213 +326,118 @@
 
 
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's nice to (do)",
-        "ja": "～するのはいいね",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのはいいね"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's surprising to (do)",
-        "ja": "～するのは驚くべきことだ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは驚くべきことだ"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's amazing to (do)",
-        "ja": "～するのはすごい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのはすごい"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's wonderful to (do)",
-        "ja": "～するのは素晴らしい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは素晴らしい"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's exciting to (do)",
-        "ja": "～するのはわくわくする",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのはわくわくする"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's fun to (do)",
-        "ja": "～するのは楽しい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは楽しい"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's pleasant to (do)",
-        "ja": "～するのは楽しい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは楽しい"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's delightful to (do)",
-        "ja": "～するのは嬉しい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは嬉しい"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's thrilling to (do)",
-        "ja": "～するのはスリルがある",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのはスリルがある"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's sad to (do)",
-        "ja": "～するのは悲しい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは悲しい"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's unpleasant to (do)",
-        "ja": "～するのは不愉快だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは不愉快だ"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's terrible to (do)",
-        "ja": "～するのはひどい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのはひどい"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's awful to (do)",
-        "ja": "～するのはひどい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのはひどい"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's embarrassing to (do)",
-        "ja": "～するのは恥ずかしい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは恥ずかしい"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's boring to (do)",
-        "ja": "～するのは退屈だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは退屈だ"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's frustrating to (do)",
-        "ja": "～するのはイライラする",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのはイライラする"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's annoying to (do)",
-        "ja": "～するのはうっとうしい",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのはうっとうしい"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's strange to (do)",
-        "ja": "～するのは変だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは変だ"
     },
     {
+        "tense": "現在",
         "category": "感情",
         "en": "It's odd to (do)",
-        "ja": "～するのは変だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのは変だ"
     },
 
     
@@ -790,58 +445,518 @@
 
 
     {
+        "tense": "現在",
         "category": "時間",
         "en": "It's time to (do)",
-        "ja": "～する時間だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～する時間だ"
     },
     {
+        "tense": "現在",
         "category": "時間",
         "en": "It's about time to (do)",
-        "ja": "そろそろ～する頃だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "そろそろ～する頃だ"
     },
     {
+        "tense": "現在",
         "category": "時間",
         "en": "It's the right time to (do)",
-        "ja": "～するのにちょうどよい時だ",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するのにちょうどよい時だ"
     },
     {
+        "tense": "現在",
         "category": "時間",
         "en": "It's too late to (do)",
-        "ja": "～するには遅すぎる",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するには遅すぎる"
     },
     {
+        "tense": "現在",
         "category": "時間",
         "en": "It's too early to (do)",
-        "ja": "～するには早すぎる",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
+        "ja": "～するには早すぎる"
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "難易度",
+        "en": "It was easy to (do)",
+        "ja": "～するのは簡単だった"
+    },
+    {
+        "tense": "過去",
+        "category": "難易度",
+        "en": "It was safe to (do)",
+        "ja": "～するのは安全だった"
+    },
+    {
+        "tense": "過去",
+        "category": "難易度",
+        "en": "It was tricky to (do)",
+        "ja": "～するのはやや難しかった（扱いづらい）"
+    },
+    {
+        "tense": "過去",
+        "category": "難易度",
+        "en": "It was challenging to (do)",
+        "ja": "～するのはやりがいがあった"
+    },
+    {
+        "tense": "過去",
+        "category": "難易度",
+        "en": "It was hard to (do)",
+        "ja": "～するのは難しかった"
+    },
+    {
+        "tense": "過去",
+        "category": "難易度",
+        "en": "It was difficult to (do)",
+        "ja": "～するのは難しかった"
+    },
+    {
+        "tense": "過去",
+        "category": "難易度",
+        "en": "It was tough to (do)",
+        "ja": "～するのは困難だった"
+    },
+    {
+        "tense": "過去",
+        "category": "難易度",
+        "en": "It was risky to (do)",
+        "ja": "～するのはリスクがあった"
+    },
+    {
+        "tense": "過去",
+        "category": "難易度",
+        "en": "It was dangerous to (do)",
+        "ja": "～するのは危険だった"
+    },
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "可能性",
+        "en": "It was possible to (do)",
+        "ja": "～するのは可能だった"
+    },
+    {
+        "tense": "過去",
+        "category": "可能性",
+        "en": "It was impossible to (do)",
+        "ja": "～するのは不可能だった"
+    },
+    {
+        "tense": "過去",
+        "category": "可能性",
+        "en": "It was likely to (do)",
+        "ja": "～しそうだった"
+    },
+    {
+        "tense": "過去",
+        "category": "可能性",
+        "en": "It was unlikely to (do)",
+        "ja": "～しそうになかった"
+    },
+    {
+        "tense": "過去",
+        "category": "可能性",
+        "en": "It was certain to (do)",
+        "ja": "～するのは確実だった"
+    },
+    {
+        "tense": "過去",
+        "category": "可能性",
+        "en": "It was bound to (do)",
+        "ja": "～するのは必然だった、当然だった"
+    },
+    {
+        "tense": "過去",
+        "category": "可能性",
+        "en": "It was inevitable to (do)",
+        "ja": "～するのは避けられなかった"
+    },
+    {
+        "tense": "過去",
+        "category": "可能性",
+        "en": "It was common to (do)",
+        "ja": "～するのはよくあった"
+    },
+    {
+        "tense": "過去",
+        "category": "可能性",
+        "en": "It was rare to (do)",
+        "ja": "～するのは珍しかった"
+    },
+    {
+        "tense": "過去",
+        "category": "可能性",
+        "en": "It was unusual to (do)",
+        "ja": "～するのは普通じゃなかった"
+    },
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "有用性",
+        "en": "It was convenient to (do)",
+        "ja": "～するのは便利だった"
+    },
+    {
+        "tense": "過去",
+        "category": "有用性",
+        "en": "It was comfortable to (do)",
+        "ja": "～するのは快適だった"
+    },
+    {
+        "tense": "過去",
+        "category": "有用性",
+        "en": "It was uncomfortable to (do)",
+        "ja": "～するのは不快だった"
+    },
+    {
+        "tense": "過去",
+        "category": "有用性",
+        "en": "It was useful to (do)",
+        "ja": "～するのは役に立った"
+    },
+    {
+        "tense": "過去",
+        "category": "有用性",
+        "en": "It was helpful to (do)",
+        "ja": "～するのは役に立った"
+    },
+    {
+        "tense": "過去",
+        "category": "有用性",
+        "en": "It was beneficial to (do)",
+        "ja": "～するのは有益だった"
+    },
+    {
+        "tense": "過去",
+        "category": "有用性",
+        "en": "It was practical to (do)",
+        "ja": "～するのは実用的だった"
+    },
+    {
+        "tense": "過去",
+        "category": "有用性",
+        "en": "It was efficient to (do)",
+        "ja": "～するのは効率的だった"
+    },
+    {
+        "tense": "過去",
+        "category": "有用性",
+        "en": "It was productive to (do)",
+        "ja": "～するのは生産的だった"
+    },
+    {
+        "tense": "過去",
+        "category": "有用性",
+        "en": "It was ineffective to (do)",
+        "ja": "～するのは効果がなかった"
+    },
+    {
+        "tense": "過去",
+        "category": "有用性",
+        "en": "It was pointless to (do)",
+        "ja": "～するのは無意味だった"
+    },
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "重要度",
+        "en": "It was necessary to (do)",
+        "ja": "～するのは必要だった"
+    },
+    {
+        "tense": "過去",
+        "category": "重要度",
+        "en": "It was unnecessary to (do)",
+        "ja": "～する必要はなかった"
+    },
+    {
+        "tense": "過去",
+        "category": "重要度",
+        "en": "It was essential to (do)",
+        "ja": "～するのは不可欠だった"
+    },
+    {
+        "tense": "過去",
+        "category": "重要度",
+        "en": "It was important to (do)",
+        "ja": "～するのは重要だった"
+    },
+    {
+        "tense": "過去",
+        "category": "重要度",
+        "en": "It was vital to (do)",
+        "ja": "～するのは極めて重要だった"
+    },
+    {
+        "tense": "過去",
+        "category": "重要度",
+        "en": "It was crucial to (do)",
+        "ja": "～するのは決定的に重要だった"
+    },
+    {
+        "tense": "過去",
+        "category": "重要度",
+        "en": "It was mandatory to (do)",
+        "ja": "～するのは義務だった"
+    },
+    {
+        "tense": "過去",
+        "category": "重要度",
+        "en": "It was optional to (do)",
+        "ja": "～するのは任意だった"
+    },
+    {
+        "tense": "過去",
+        "category": "重要度",
+        "en": "It was worth it to (do)",
+        "ja": "～する価値があった"
+    },
+    {
+        "tense": "過去",
+        "category": "重要度",
+        "en": "It was advisable to (do)",
+        "ja": "～するのが望ましかった"
+    },
+    {
+        "tense": "過去",
+        "category": "重要度",
+        "en": "It was preferable to (do)",
+        "ja": "～する方が好ましかった"
+    },
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "適否",
+        "en": "It was wrong to (do)",
+        "ja": "～するのは間違っていた"
+    },
+    {
+        "tense": "過去",
+        "category": "適否",
+        "en": "It was legal to (do)",
+        "ja": "～するのは合法だった"
+    },
+    {
+        "tense": "過去",
+        "category": "適否",
+        "en": "It was illegal to (do)",
+        "ja": "～するのは違法だった"
+    },
+    {
+        "tense": "過去",
+        "category": "適否",
+        "en": "It was useless to (do)",
+        "ja": "～するのは無駄だった"
+    },
+    {
+        "tense": "過去",
+        "category": "適否",
+        "en": "It was wise to (do)",
+        "ja": "～するのは賢明だった"
+    },
+    {
+        "tense": "過去",
+        "category": "適否",
+        "en": "It was foolish to (do)",
+        "ja": "～するのは愚かだった"
+    },
+    {
+        "tense": "過去",
+        "category": "適否",
+        "en": "It was acceptable to (do)",
+        "ja": "～するのは許容された"
+    },
+    {
+        "tense": "過去",
+        "category": "適否",
+        "en": "It was appropriate to (do)",
+        "ja": "～するのは適切だった"
+    },
+    {
+        "tense": "過去",
+        "category": "適否",
+        "en": "It was inappropriate to (do)",
+        "ja": "～するのは不適切だった"
+    },
+
+
+
+
+
+
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was nice to (do)",
+        "ja": "～するのはよかった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was surprising to (do)",
+        "ja": "～するのは驚くべきことだった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was amazing to (do)",
+        "ja": "～するのはすごかった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was wonderful to (do)",
+        "ja": "～するのは素晴らしかった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was exciting to (do)",
+        "ja": "～するのはわくわくした"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was fun to (do)",
+        "ja": "～するのは楽しかった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was pleasant to (do)",
+        "ja": "～するのは楽しかった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was delightful to (do)",
+        "ja": "～するのは嬉しかった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was thrilling to (do)",
+        "ja": "～するのはスリルがあった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was sad to (do)",
+        "ja": "～するのは悲しかった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was unpleasant to (do)",
+        "ja": "～するのは不愉快だった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was terrible to (do)",
+        "ja": "～するのはひどかった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was awful to (do)",
+        "ja": "～するのはひどかった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was embarrassing to (do)",
+        "ja": "～するのは恥ずかしかった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was boring to (do)",
+        "ja": "～するのは退屈だった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was frustrating to (do)",
+        "ja": "～するのはイライラした"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was annoying to (do)",
+        "ja": "～するのはうっとうしかった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was strange to (do)",
+        "ja": "～するのは変だった"
+    },
+    {
+        "tense": "過去",
+        "category": "感情",
+        "en": "It was odd to (do)",
+        "ja": "～するのは変だった"
+    },
+
+    
+
+
+
+    {
+        "tense": "過去",
+        "category": "時間",
+        "en": "It was time to (do)",
+        "ja": "～する時間だった"
+    },
+    {
+        "tense": "過去",
+        "category": "時間",
+        "en": "It was about time to (do)",
+        "ja": "そろそろ～する頃だった"
+    },
+    {
+        "tense": "過去",
+        "category": "時間",
+        "en": "It was the right time to (do)",
+        "ja": "～するのにちょうどよい時だった"
+    },
+    {
+        "tense": "過去",
+        "category": "時間",
+        "en": "It was too late to (do)",
+        "ja": "～するには遅すぎた"
+    },
+    {
+        "tense": "過去",
+        "category": "時間",
+        "en": "It was too early to (do)",
+        "ja": "～するには早すぎた"
     }
 ]
