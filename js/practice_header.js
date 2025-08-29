@@ -1,7 +1,7 @@
-const header = document.getElementById('header');
+const header = document.getElementById('practice_header');
 if( header != null) {
     header.innerHTML = `
-    <div id="title"><a href="/EnglishMaster/index.html">English</a></div>
+    <div id="saved-phrase"></div>
     <nav>
         <div class="hamburger">
             <span></span>
@@ -40,3 +40,9 @@ countrySelect.addEventListener("change", () => {
     localStorage.setItem("selectedCountry", countrySelect.value);
     console.log("国設定を保存:", countrySelect.value);
 });
+
+// 保存された最新フレーズを復元して表示
+const savedPhrase = JSON.parse(localStorage.getItem("savedPhrase"));
+if (savedPhrase && savedPhrase.en) {
+    document.getElementById("saved-phrase").textContent = savedPhrase.en;
+}

@@ -123,18 +123,7 @@
     {
         "category": "I",
         "en": "I will (do)",
-        "ja": "～する意志がある",
-        "examples": [
-            {
-                "en": "",
-                "ja": ""
-            }
-        ]
-    },
-    {
-        "category": "I",
-        "en": "I'll just go (do)",
-        "ja": "ちょっと～しにいく",
+        "ja": "～する意志があるよ",
         "examples": [
             {
                 "en": "",
@@ -337,6 +326,132 @@
             {
                 "en": "I'm about to eat lunch.",
                 "ja": "今まさに昼食を食べるところだ。"
+            }
+        ]
+    },
+    {
+        "category": "I",
+        "en": "I tend to (do)",
+        "ja": "～しがちである",
+        "examples": [
+            {
+                "en": "I tend to overthink things.",
+                "ja": "物事を考えすぎる傾向がある。"
+            }
+        ]
+    },
+
+
+
+
+    
+    {
+        "category": "I'll",
+        "en": "I'll just go (do)",
+        "ja": "ちょっと～しにいくよ",
+        "examples": [
+            {
+                "en": "",
+                "ja": ""
+            }
+        ]
+    },
+    {
+        "category": "I'll",
+        "en": "I'll try to (do)",
+        "ja": "～するように努力するよ",
+        "examples": [
+            {
+                "en": "I'll try to finish it.",
+                "ja": "それを終わらせるように努力するよ。"
+            }
+        ]
+    },
+    {
+        "category": "I'll",
+        "en": "I'll make an effort to (do)",
+        "ja": "～するよう努力するよ",
+        "examples": [
+            {
+                "en": "I'll make an effort to arrive on time.",
+                "ja": "時間通りに着くよう努力するよ。"
+            }
+        ]
+    },
+    {
+        "category": "I'll",
+        "en": "I'll promise to (do)",
+        "ja": "～することを約束するよ",
+        "examples": [
+            {
+                "en": "I'll promise to call you.",
+                "ja": "電話することを約束するよ。"
+            }
+        ]
+    },
+    {
+        "category": "I'll",
+        "en": "I'll manage to (do)",
+        "ja": "なんとか～するよ",
+        "examples": [
+            {
+                "en": "I'll manage to finish it on time.",
+                "ja": "なんとか時間通りに終わらせるよ。"
+            }
+        ]
+    },
+    {
+        "category": "I'll",
+        "en": "I'll do my best to (do)",
+        "ja": "～するために最善を尽くすよ",
+        "examples": [
+            {
+                "en": "I'll do my best to help you.",
+                "ja": "あなたを助けるために最善を尽くすよ。"
+            }
+        ]
+    },
+    {
+        "category": "I'll",
+        "en": "I'll try my best to (do)",
+        "ja": "～するために最善を尽くしてみるよ",
+        "examples": [
+            {
+                "en": "I'll try my best to understand.",
+                "ja": "理解できるように頑張るよ。"
+            }
+        ]
+    },
+    {
+        "category": "I'll",
+        "en": "I'll attempt to (do)",
+        "ja": "～しようと試みるよ",
+        "examples": [
+            {
+                "en": "I'll attempt to solve this problem.",
+                "ja": "この問題を解こうと試みるよ。"
+            }
+        ]
+    },
+    {
+        "category": "I'll",
+        "en": "I'll strive to (do)",
+        "ja": "～するよう全力を尽くすよ（強い決意）",
+        "examples": [
+            {
+                "en": "I'll strive to improve my skills.",
+                "ja": "技術を向上させるよう全力を尽くすよ。"
+            }
+        ]
+    },
+    {
+        "category": "I'll",
+        "en": "I'll endeavor to (do)",
+        "ja": "～するよう努力いたします（丁寧で堅い）",
+        "examples": [
+            {
+                "en": "I'll endeavor to complete the project on time.",
+                "ja": "プロジェクトを期限内に完了するよう努力いたします。"
             }
         ]
     },

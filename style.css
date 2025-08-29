@@ -7,7 +7,7 @@
 body {
     font-family: sans-serif;
     font-size: small;
-    margin: 80px 0 0 0;
+    margin: 9em 0 0 0;
     padding: 0;
     background-color: white;
     -webkit-user-select: none;
@@ -71,7 +71,7 @@ p.center {
 header {
     display: flex;
     width: 100%;
-    height: 70px;
+    height: 8em;
     background-color: #aba8a8;
     position: fixed;
     top: 0;
@@ -79,20 +79,30 @@ header {
     align-items: center;
     z-index: 10;
 }
-header div {
-    margin: 0 auto;
+#header #title {
+    margin: auto;
+    width: 70%;
+    font-size: 3em;
+    font-weight: bold;
+    color: darkblue;
+    text-align: center;
 }
-header div #title {
-    font-family: serif;
-    font-size: 40px;
-    color: navy;
+#practice_header #saved-phrase {
+    margin: auto;
+    padding: 1em;
+    width: 70%;
+    font-size: 1.7em;
+    font-weight: bold;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    text-align: center;
 }
-
 
 /* ハンバーガーメニュー */
 .hamburger {
+    margin: 0 auto;
     position: fixed;
-    top: 20px;
+    top: 2.5em;
     right: 20px;
     cursor: pointer;
     z-index: 20;
