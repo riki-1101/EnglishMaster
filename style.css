@@ -102,8 +102,8 @@ header {
 .hamburger {
     margin: 0 auto;
     position: fixed;
-    top: 2.5em;
-    right: 20px;
+    padding: 1em 0;
+    right: 10px;
     cursor: pointer;
     z-index: 20;
 }
