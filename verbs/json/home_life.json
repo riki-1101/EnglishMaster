@@ -26,6 +26,11 @@
     },
     {
         "category": "睡眠",
+        "en": "stay up all night",
+        "ja": "徹夜する"
+    },
+    {
+        "category": "睡眠",
         "en": "oversleep",
         "ja": "寝過ごす"
     },
@@ -201,6 +206,11 @@
     },
     {
         "category": "食事",
+        "en": "skip breakfast",
+        "ja": "朝食を抜く"
+    },
+    {
+        "category": "食事",
         "en": "make coffee/tea",
         "ja": "コーヒー / 紅茶を淹れる"
     },
@@ -218,6 +228,21 @@
         "category": "食事",
         "en": "have a snack",
         "ja": "おやつを食べる"
+    },
+    {
+        "category": "食事",
+        "en": "eat between meals",
+        "ja": "間食をする"
+    },
+    {
+        "category": "食事",
+        "en": "eat too much",
+        "ja": "食べ過ぎる"
+    },
+    {
+        "category": "食事",
+        "en": "overeat",
+        "ja": "食べ過ぎる"
     },
     {
         "category": "食事",
@@ -253,6 +278,11 @@
         "category": "身支度",
         "en": "wash my face",
         "ja": "顔を洗う"
+    },
+    {
+        "category": "身支度",
+        "en": "run a bath",
+        "ja": "お風呂に湯を入れる"
     },
     {
         "category": "身支度",

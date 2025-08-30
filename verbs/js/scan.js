@@ -42,7 +42,7 @@ fetch(`./json/${fileName}.json`)  // HTML名.json を読み込む
 
                     // 音声マーククリック → 読み上げ
                     li.querySelector('.play-sound').addEventListener('click', function () {
-                        const textToSpeak = phrase.en.replace(/\(.*?\)/g, '').trim();
+                        const textToSpeak = phrase.en.replace(/(\(.*?\)|\[.*?\])/g, '').trim();
                         const utterance = new SpeechSynthesisUtterance(textToSpeak);
                         utterance.lang = localStorage.getItem("selectedCountry") || "en-US";
                         speechSynthesis.speak(utterance);

@@ -166,6 +166,11 @@
     },
     {
         "category": "医療",
+        "en": "go to a dentist",
+        "ja": "歯医者に行く"
+    },
+    {
+        "category": "医療",
         "en": "consult a pharmacist",
         "ja": "薬剤師に相談する"
     },
