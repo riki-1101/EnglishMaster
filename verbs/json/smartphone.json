@@ -85,72 +85,66 @@
         "en": "pair with Bluetooth",
         "ja": "Bluetoothでペアリングする"
     },
+    {
+        "category": "設定",
+        "en": "mute",
+        "ja": "サイレントにする"
+    },
 
 
 
 
 
     {
-        "category": "電話",
+        "category": "連絡",
         "en": "make a call",
         "ja": "電話をかける"
     },
     {
-        "category": "電話",
+        "category": "連絡",
         "en": "pick up the phone",
         "ja": "電話に出る"
     },
     {
-        "category": "電話",
+        "category": "連絡",
         "en": "answer the phone",
         "ja": "電話に出る（フォーマル寄り）"
     },
     {
-        "category": "電話",
+        "category": "連絡",
         "en": "hang up",
         "ja": "電話を切る"
     },
     {
-        "category": "電話",
+        "category": "連絡",
         "en": "miss a call",
         "ja": "着信を逃す"
     },
     {
-        "category": "電話",
+        "category": "連絡",
         "en": "leave a message",
         "ja": "留守電を残す"
     },
     {
-        "category": "電話",
+        "category": "連絡",
         "en": "call back",
         "ja": "かけ直す"
     },
-
-
-
-
-
     {
-        "category": "メッセージ",
+        "category": "連絡",
         "en": "text (sb)",
         "ja": "～にメッセージを送る"
     },
     {
-        "category": "メッセージ",
+        "category": "連絡",
         "en": "check messages",
         "ja": "メッセージを確認する"
     },
     {
-        "category": "メッセージ",
+        "category": "連絡",
         "en": "check notifications",
         "ja": "通知を確認する"
     },
-    {
-        "category": "メッセージ",
-        "en": "mute",
-        "ja": "サイレントにする"
-    },
-    
 
 
 
@@ -186,23 +180,18 @@
         "en": "close [quit] an app",
         "ja": "アプリを閉じる"
     },
-
-
-
-
-
     {
-        "category": "インターネット",
+        "category": "アプリ",
         "en": "search for (sth)",
         "ja": "～を検索する"
     },
     {
-        "category": "インターネット",
+        "category": "アプリ",
         "en": "browse the web",
         "ja": "ネットを見る"
     },
     {
-        "category": "インターネット",
+        "category": "アプリ",
         "en": "stream music [video]",
         "ja": "音楽[動画]をストリーミングする"
     }
